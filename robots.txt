@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: http://verrips.org/sitemap.xml.gz
