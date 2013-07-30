@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: 404.html
+Disallow: update.txt 
 Sitemap: http://verrips.org/sitemap.xml.gz
