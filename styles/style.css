@@ -364,14 +364,14 @@ h4.blue {
 }
 ul li {
 	line-height:2;
-	background:url(../images/icons/bullet.jpg) no-repeat left center;
+/*	background:url(../images/icons/bullet.jpg) no-repeat left center; */
 	padding-left:15px;
 }
 a:link, a:visited {
 	text-decoration:underline
 }
 input, textarea, button {
-	background:url(./images/bg/15.png);
+/*	background:url(./images/bg/15.png); */
 	clear:both;
 	float:left;
 	font-style:italic;
