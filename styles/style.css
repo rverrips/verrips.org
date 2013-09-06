@@ -145,7 +145,7 @@ div.page {
 div.page_content {
 	padding:25px 0 40px 25px
 }
-div#container h3.page_title {
+div#container h1.page_title {
 	font-family: 'OstrichSansBlack';
 	margin-left:25px;
 	font-size:35px;
