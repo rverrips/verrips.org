@@ -3,7 +3,7 @@
 
 $hostname = "localhost";
 $database = "";
-$username = "root";
+$username = "";
 $password = "";
 
 $mysqli = new mysqli($localhost, $username, $password, $database);
@@ -11,6 +11,14 @@ $mysqli = new mysqli($localhost, $username, $password, $database);
 /* prints PHP version */
 printf("PHP version: %s\n", phpversion());
 printf("<br>");
+
+/* check if mcrypt modules is installed */
+
+if (function_exists(mcrypt_generic)) {
+    printf ("mcrypt functions are available.<br />\n");
+} else {
+    printf( "mcrypt functions are not available.<br />\n");
+}
 
 /* check connection */
 if (mysqli_connect_errno()) { printf("Connect failed: %s\n", mysqli_connect_error()); exit(); }
@@ -22,12 +30,5 @@ printf("<br>");
 /* close connection */
 $mysqli->close(); 
 
-/* check if mcrypt modules is installed */
-
-if (function_exists(mcrypt_generic)) {
-    printf ("mcrypt functions are available.<br />\n");
-} else {
-    printf( "mcrypt functions are not available.<br />\n");
-}
 
 ?>
