@@ -2,8 +2,8 @@
 /* Quick test to verify MySQL and PHP Versions */
 
 $hostname = "localhost";
-$database = "wordpress";
-$username = "";
+$database = "";
+$username = "root";
 $password = "";
 
 $mysqli = new mysqli($localhost, $username, $password, $database);
