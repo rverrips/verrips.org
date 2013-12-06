@@ -2,7 +2,7 @@
 /* Quick test to verify MySQL and PHP Versions */
 
 $hostname = "localhost";
-$database = "";
+$database = "wordpress";
 $username = "";
 $password = "";
 
