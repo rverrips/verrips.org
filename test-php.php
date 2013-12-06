@@ -1,5 +1,5 @@
 <?php
-/* Quick test to verify MySQL and PHP Versions */
+/* Quick test to verify PHP Version, mcrypt installed and MySQL database connectable */
 
 $hostname = "localhost";
 $database = "";
@@ -29,6 +29,5 @@ printf("<br>");
 
 /* close connection */
 $mysqli->close(); 
-
 
 ?>
