@@ -207,7 +207,7 @@ ul#works_filter li a:hover, ul#works_filter li a.selected {
 	border-radius: 0.2em;
 	/* IE hacks */
     zoom: 1;
- *display: inline;
+ 	display: inline;
 }
 .social_icons {
 	margin:0 auto;
@@ -444,7 +444,7 @@ ol.comments li.comment a.reply:hover, div.tab ul.tab_menu li:hover, div.tab ul.t
 	border-radius: 0.2em;
 	/* IE hacks */
     zoom: 1;
- *display: inline;
+ 	display: inline;
 	position: relative;
 	overflow: visible;
 	display: inline-block;
@@ -465,7 +465,7 @@ ol.comments li.comment a.reply:hover, div.tab ul.tab_menu li:hover, div.tab ul.t
 	border-radius: 0.2em;
 	/* IE hacks */
     zoom: 1;
- *display: inline;
+ 	display: inline;
 }
 .button:hover, .button:focus, .button:active {
 	border-color: #3072b3;
@@ -582,6 +582,9 @@ ul.sublist li a:hover {
 }
 .grid .foursquare:hover, .grid .foursquare.active {
 	background: #0072b1;
+}
+.grid .pinterest:hover, .grid .pinterest.active {
+	background: #cb2027;
 }
 
 .grid .campaign:hover {
