@@ -1,0 +1,11 @@
+{
+    "name": "rverrips/verrips.org",
+    "description": "Verrips Family Website",
+    "authors": [
+        {
+            "name": "Roy Verrips",
+            "email": "roy@verrips.org"
+        }
+    ],
+    "require": {}
+}
