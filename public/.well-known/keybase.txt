@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/rverrrips
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://verrips.org
+  * I am rverrrips (https://keybase.io/rverrrips) on keybase.
+  * I have a public key with fingerprint 32E6 BE7E 0169 5C6F 6B29  BDE6 B09C 2C78 1826 F48B
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101ed63bacecece3aefcbf4a6190c6c0fa722867ec15c2cf127c3eea193a73430bd0a",
+            "fingerprint": "32e6be7e01695c6f6b29bde6b09c2c781826f48b",
+            "host": "keybase.io",
+            "key_id": "b09c2c781826f48b",
+            "kid": "0101ed63bacecece3aefcbf4a6190c6c0fa722867ec15c2cf127c3eea193a73430bd0a",
+            "uid": "79f6a124764726f68d6f07e0eecaff19",
+            "username": "rverrrips"
+        },
+        "service": {
+            "hostname": "verrips.org",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1494051917,
+    "expire_in": 157680000,
+    "prev": "78bd78e0cff977341e32c8783630994b5ae58a8a94f3238a1cd5fea4788c17c5",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.70
+Comment: https://keybase.io/crypto
+
+yMIiAnicrZJfbAxBHMe3tBqnTSpNRf0Lo1HhWjv7Z3b3oongoYlo8CBoObOzs9fV
+2j2721PkTkSLqoSSxku1pPWAlwrKA6eU1AWRyD348yLx4kEimiOaS1qzDW8ezTxM
+5jef73e+v8k8K53NhQqG+8LtC1flugtePrncxu0ubd16DOiOcQREjoEWOrPQVoN6
+frTFMkAE8JCH1ECijgkNpoipSXRTwghqPEGEN7EiCCpSKIEyEYgJBYWIlGKoiVgR
+JZHXDR6DMDAtO0bduGvZPrMVBYp0qlAeIk0myES6oOkGq/EaM1FUqArIlFSdCZsd
+L1CwcDr2aK3lsBrbRGfi/YP/z7nbZuwUzUQYCpKCJIXdhFQDmTyLTynBpgm1APSo
+a+ODlNFugrqua8U9kAwDVk5YhAYvG7TyBwkIBtQ6boxp467jO8RpZQfNvh/3IoHQ
+PxIPyMNUj/7xiOqWbbB3ZAqm9yzHBhHISOJbgSmUNImXoQaVMKDtcculUSsgZAWp
+PBvBPTQRdKPqhqJSnpimprBmIRUFoiqqiERe0yRdxlRWsYo1yRQFUcWQGLJJsaSo
+KoEKkUHQ1SHbARGZxcQxZulZMRv7bS4FyaejTYVcQYibUzQr+F9caG7Z31+32i2e
+Ts4bA71a2i5btBfBmtHvk8Lt56fKHx9HV+Zxw+321P7T7xsebM/teNMzsPrEvanN
+nyqlIj2z5Mu6wgudnz7GT6YOLMydmzaW7hnvr+kp71q2/tHys+fziZvV9SV3to10
+dpwG2T3TKye+RuYcrdxfcWbVQPOHVIfV0NL4YsOW5Pl8dmyNeq0sk6/tHvhu1L+9
+lN0aaZi4dbV8++QPmk7VDlVVv16R+3Uxs+nVhaaKB3fr9uk+HMrO3kVuLOaqhonx
+uO/z2GG/d+3ot9jg+LVJ9G7BYHRjSe/rieTDTLqxOJkHXVz9256b12+t2Th30c+0
+xPXn++guKzVyf36obid++Rsz7kBe
+=UVIn
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rverrrips
+
+==================================================================
