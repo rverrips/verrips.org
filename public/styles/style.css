@@ -401,7 +401,7 @@ div.page img {
 	border:1px solid #73aaca;
 	max-width:94%
 }
-a#logo:hover, a.facebook:hover, a.twitter:hover, a.linkedin:hover, a.dribbble:hover, div.image_gallery img:hover {
+a#logo:hover, a.facebook:hover, a.twitter:hover, a.linkedin:hover, a.drible:hover, div.image_gallery img:hover {
 	opacity:.5
 }
 fieldset#contact_form button, .right {
@@ -567,6 +567,9 @@ ul.sublist li a:hover {
 }
 .grid .facebook:hover, .grid .facebook.active {
 	background: #44559b;
+}
+.grid .keybase:hover, .grid .keybase.active {
+	background: #ffffff;
 }
 .grid .linkedin:hover, .grid .linkedin.active {
 	background: #007bb6;
