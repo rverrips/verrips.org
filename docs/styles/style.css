@@ -569,7 +569,7 @@ ul.sublist li a:hover {
 	background: #44559b;
 }
 .grid .keybase:hover, .grid .keybase.active {
-	background: #ffffff;
+	background: #0086fb;
 }
 .grid .linkedin:hover, .grid .linkedin.active {
 	background: #007bb6;
@@ -607,11 +607,11 @@ ul.sublist li a:hover {
   position: relative;
   overflow: hidden;
 }
- 
+
 .js-video.widescreen {
   padding-bottom: 57.25%;
 }
- 
+
 .js-video.vimeo {
   padding-top: 0;
 }
