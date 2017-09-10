@@ -8,8 +8,8 @@ History of verrips.org
 
 - 2002-~ <b>Architecture / Framework</b>
 - 2002/02/12-2004/03/01 Powered by [Postnuke](http://postnuke.com)
-- 2004/03/01-2006/08 Powered by [Movable Type](https://www.movabletype.org)
-- 2006/08-2012 Powered by [Wordpress](http://wordpress.org)
+- 2004/03/01-2004/05 Powered by [Movable Type](https://www.movabletype.org)
+- 2004/05-2012 Powered by [Wordpress](http://wordpress.org)
 - 2013/04-2017/12 HTML5/CSS Single Page Site [version 2013](https://github.com/rverrips/verrips.org/tree/2013)
 - 2017/12-~ tba [version 2017](https://github.com/rverrips/verrips.org/tree/2017)
 
