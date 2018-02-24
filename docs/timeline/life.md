@@ -1,5 +1,5 @@
-History of verrips.org
-===============
+ of verrips.org
+===============History
 
 - 2002-~ <b>Domain Name(s)</b>
 - 2002/02/12 Launched as verrips.co.za
@@ -11,7 +11,7 @@ History of verrips.org
 - 2004/03/01-2006/08 Powered by [Movable Type](https://www.movabletype.org)
 - 2006/08-2012 Powered by [Wordpress](http://wordpress.org)
 - 2013/04-2017/12 HTML5/CSS Single Page Site [version 2013](https://github.com/rverrips/verrips.org/tree/2013)
-- 2017/12-~ tba [version 2017](https://github.com/rverrips/verrips.org/tree/2017)
+- 2018/5-~ tba [version 2018](https://github.com/rverrips/verrips.org/tree/2017.08)
 
 
 - 2002-~ <b>Where in the world</b>
