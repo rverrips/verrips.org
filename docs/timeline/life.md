@@ -1,5 +1,5 @@
- of verrips.org
-===============History
+History of verrips.org
+===============
 
 - 2002-~ <b>Domain Name(s)</b>
 - 2002/02/12 Launched as verrips.co.za
