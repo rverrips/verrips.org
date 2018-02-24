@@ -4,7 +4,7 @@ History of verrips.org
 - 2002-~ <b>Domain Name(s)</b>
 - 2002/02/12 Launched as verrips.co.za
 - 2002/02/12-2004/05/10 verrips.co.za
-- 2004/05/10-~ verrips.com
+- 2004/05/10-~ verrips.org
 
 - 2002-~ <b>Architecture / Framework</b>
 - 2002/02/12-2004/03/01 Powered by [Postnuke](http://postnuke.com)
