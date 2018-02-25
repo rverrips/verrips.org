@@ -29,8 +29,8 @@ History of verrips.org
 - 2011/06/05-2011/12/28 Wordpress version 3.2
 - 2011/12/28-2012/07/03 Wordpress version 3.3
 - 2012/07/03-2012/12/31 Wordpress version 3.4
-- 2012/12/31 Wordpress version 3.5 
-- 2013/01/01-2013/04/30 HTML5 Single Page Obituary
+- 2012/12/31-2013/04/30 Wordpress version 3.5 
+- 2013/01/01-2013/04/30 Single Page Obituary
 - 2013/04/30-~ HTML5/CSS Single Page Site with Family Pic's and links to Social 
 - 2013/06/30-~ Code hosted in [GitHub](https://github.com/rverrips/verrips.org)
 - 2013/06/30 [release 2013](https://github.com/rverrips/verrips.org/tree/2013)
