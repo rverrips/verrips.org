@@ -9,7 +9,7 @@ History of verrips.org
 
 - 2001 <b>Architecture / Framework</b>
 - 2002/02/12-2004/03/01 Powered by [Postnuke](http://postnuke.com)
-- 2002/02/12 Postnuke version 1.5
+- 2002/02/12-2004/03/01 Postnuke version 1.5
 - 2004/03/01-2004/05 Powered by [Movable Type](https://www.movabletype.org)
 - 2004/03/01-2004/05 Movable Type version 2.661
 - 2004/05/30-2012/12/31 Powered by [Wordpress](http://wordpress.org)
