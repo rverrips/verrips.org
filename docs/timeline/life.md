@@ -35,7 +35,6 @@ History of verrips.org
 - 2013/06/30-~ Code hosted in [GitHub](https://github.com/rverrips/verrips.org)
 - 2013/06/30 [release 2013](https://github.com/rverrips/verrips.org/tree/2013)
 - 2017/08/30 [release 2017.08](https://github.com/rverrips/verrips.org/tree/2017.08)
-- 2017/09/30 [release 2017.09](https://github.com/rverrips/verrips.org/tree/2017.09)
 
 - 2001 <b>Where in the world</b>
 - 2001/02-2002/04 Harare, Zimbabwe
