@@ -3,18 +3,13 @@ History of verrips.org
 
 - 2001 <b>Domain Name(s)</b>
 - 2002/02/12 Launched as verrips.co.za
-<<<<<<< HEAD
-- 2002/02/12-2004/05/10  verrips.co.za
-- 2004/05/10-~ verrips.com
-=======
 - 2002/02/12-2004/05/10 verrips.co.za
 - 2004/05/10-~ [verrips.org](https://verrips.org)
->>>>>>> master
 - 2012/06/01-2014/06/01 verrips.me
 
 - 2001 <b>Architecture / Framework</b>
 - 2002/02/12-2004/03/01 Powered by [Postnuke](http://postnuke.com)
-- 2002/02/12 Postnuke version 1.5
+- 2002/02/12-2004/03/01 Postnuke version 1.5
 - 2004/03/01-2004/05 Powered by [Movable Type](https://www.movabletype.org)
 - 2004/03/01-2004/05 Movable Type version 2.661
 - 2004/05/30-2012/12/31 Powered by [Wordpress](http://wordpress.org)
@@ -34,20 +29,13 @@ History of verrips.org
 - 2011/06/05-2011/12/28 Wordpress version 3.2
 - 2011/12/28-2012/07/03 Wordpress version 3.3
 - 2012/07/03-2012/12/31 Wordpress version 3.4
-<<<<<<< HEAD
-- 2012/12/31 Wordpress version 3.5 
-=======
 - 2012/12/31-2013/04/30 Wordpress version 3.5 
->>>>>>> master
 - 2013/01/01-2013/04/30 Single Page Obituary
 - 2013/04/30-~ HTML5/CSS Single Page Site with Family Pic's and links to Social 
 - 2013/06/30-~ Code hosted in [GitHub](https://github.com/rverrips/verrips.org)
 - 2013/06/30 [release 2013](https://github.com/rverrips/verrips.org/tree/2013)
 - 2017/08/30 [release 2017.08](https://github.com/rverrips/verrips.org/tree/2017.08)
-<<<<<<< HEAD
 - 2017/09/30 [release 2017.09](https://github.com/rverrips/verrips.org/tree/2017.09)
-=======
->>>>>>> master
 
 - 2001 <b>Where in the world</b>
 - 2001/02-2002/04 Harare, Zimbabwe
