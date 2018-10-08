@@ -15,17 +15,17 @@ Original Template from [Sarfraz Shoukat](http://esarfraz.com) as published on [F
 History of verrips.org
 =====================
 
-Domain Name
------------
-- 2001 <b>Domain Name(s)</b>
+----
+2001 <b>Domain Name(s)</b>
+
 - 2002/02/12 Launched as verrips.co.za
 - 2002/02/12-2004/05/10 verrips.co.za
 - 2004/05/10-~ [verrips.org](https://verrips.org)
 - 2012/06/01-2014/06/01 verrips.me
 
-Architecture / Framework
-------------------------
-- 2001 <b>Architecture / Framework</b>
+----
+2001 <b>Architecture / Framework</b>
+
 - 2002/02/12-2004/03/01 Powered by [Postnuke](http://postnuke.com)
 - 2002/02/12-2004/03/01 Postnuke version 1.5
 - 2004/03/01-2004/05 Powered by [Movable Type](https://www.movabletype.org)
@@ -56,9 +56,9 @@ Architecture / Framework
 - 2018/10/06-~ Manage releases in [Github Projects](https://github.com/rverrips/verrips.org/projects/)
 - 2018/10/06 [release 2018.10](http://github.com/rverrips/verrips.org/tree/2018.10)
 
-Verrips Family Location
------------------------
-- 2001 <b>Where in the world</b>
+----
+2001 <b>Where in the world</b>
+
 - 2001/02-2002/04 Harare, Zimbabwe
 - 2002/05-2002/07 Cape Town, South Africa
 - 2002/07-2008/08 Sahari Village, Dubai, United Arab Emirates
@@ -68,3 +68,4 @@ Verrips Family Location
 - 2014/08-2016/12 Sahari Village, Dubai, United Arab Emirates (Again) 
 - 2016/12-2017/01 Chicago, IL
 - 2017/01-~ Naperville, IL
+
