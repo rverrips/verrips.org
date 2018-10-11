@@ -1,7 +1,7 @@
 History of verrips.org
-=====================
+======================
 
-----
+--------------------------
 2001 <b>Domain Name(s)</b>
 
 - 2002/02/12 Launched as verrips.co.za
@@ -9,7 +9,7 @@ History of verrips.org
 - 2004/05/10-~ [verrips.org](https://verrips.org)
 - 2012/06/01-2014/06/01 verrips.me
 
-----
+------------------------------------
 2001 <b>Architecture / Framework</b>
 
 - 2002/02/12-2004/03/01 Powered by [Postnuke](http://postnuke.com)
@@ -40,9 +40,9 @@ History of verrips.org
 - 2013/06/30 [release 2013](https://github.com/rverrips/verrips.org/tree/2013)
 - 2017/08/30 [release 2017.08](https://github.com/rverrips/verrips.org/tree/2017.08)
 - 2018/10/06-~ Manage releases in [Github Projects](https://github.com/rverrips/verrips.org/projects/)
-- 2018/10/06 [release 2018.10](http://github.com/rverrips/verrips.org/tree/2018.10)
+- 2018/10/06 [release 2018.10](https://github.com/rverrips/verrips.org/tree/2018.10)
 
-----
+------------------------------
 2001 <b>Where in the world</b>
 
 - 2001/02-2002/04 Harare, Zimbabwe
