@@ -589,6 +589,9 @@ ul.sublist li a:hover {
 .grid .pinterest:hover, .grid .pinterest.active {
 	background: #cb2027;
 }
+.grid .youtube:hover, .grid .youtube.active {
+    background: #ffffff;
+}
 
 .grid .campaign:hover {
 	background: transparent;
