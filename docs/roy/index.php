@@ -1,4 +1,4 @@
 <?php
-   header( 'Location: http://verrips.org/#roy' ) ;
+   header('Location: http://verrips.org/#roy');
    ?>
    
