@@ -1,5 +1,6 @@
 .DS_Store
 Thumbs.db
+.well-known
 .env
 /vendor/
 /node_modules/
