@@ -1,6 +1,5 @@
 <?php
 
-
 // EDIT THE FOLLOWING LINE BELOW AS REQUIRED
 
 $send_email_to = 'roy@verrips.org';
