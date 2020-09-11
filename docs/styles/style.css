@@ -592,6 +592,9 @@ ul.sublist li a:hover {
 .grid .youtube:hover, .grid .youtube.active {
     background: #ffffff;
 }
+.grid .norwex:hover, .grid .norwex.active {
+    background: #51B2BD;
+}
 
 .grid .campaign:hover {
 	background: transparent;
@@ -626,6 +629,3 @@ ul.sublist li a:hover {
   height: 100%;
   position: absolute;
 }
-
-
-
