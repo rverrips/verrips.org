@@ -17,8 +17,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/[$tag]}', function () {
-    return Redirect::to('/#'.$tag);
+Route::get('/[$anchortag]}', function () {
+    return Redirect::to('/#'.$anchortag);
 });
 
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
