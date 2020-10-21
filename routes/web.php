@@ -17,8 +17,19 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/[$tag]}', function () {
-    return Redirect::to('/#'.$tag);
+$anchorTags = collect([
+    'about',
+    'roy',
+    'angela',
+    'nathan',
+    'rachel',
+    'luke',
+    'gospel',
+    'contact'
+]);
+
+$anchorTags->map(function ($item) {
+    Route::redirect($item, '/#'.$item);
 });
 
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
