@@ -28,6 +28,10 @@ $anchorTags = collect([
     'contact'
 ]);
 
+$anchorTags->map(function ($item) {
+    Route::redirect($item, '/#'.$item);
+});
+
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('dashboard');
 })->name('dashboard');
