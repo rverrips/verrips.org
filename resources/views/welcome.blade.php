@@ -154,6 +154,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <li> <img src="./docs/images/verrips-2018b.png" alt="Luke, Angela, Roy and Nathan Verrips - Naperville, IL 2018" />
               <p class="flex-caption"> Luke, Angela, Roy and Nathan Verrips - Naperville, IL 2018</p>
             </li>
+            <li> <img src="./docs/images/verrips-2020.png" alt="Luke, Roy, Nathan and Angela Verrips - Naperville, IL 2020" />
+              <p class="flex-caption"> Luke, Roy, Nathan and Angela Verrips - Naperville, IL 2020</p>
+            </li>
             <li> <img src="./docs/images/verrips-2004.png" alt="Rachel, Angela, Roy and Nathan Verrips - Dubai 2004" />
               <p class="flex-caption"> Rachel, Angela, Roy and Nathan Verrips - Dubai 2004</p>
             </li>
@@ -167,16 +170,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <!-- page about -->
       <h1 class="page_title"> About Us</h1>
       <div class="page_content">
-      <p>We are <a href="#roy">Roy</a>, <a href="#angela">Angela</a>, <a href="#nathan">Nathan</a> and <a href="#luke"> Luke</a> <strong>Verrips</strong>, a <a href="#gospel">Christian</a> family living in Naperville, Illinois for about 3 and half years now.  We are originally from South Africa, but spent almost 15 years living as a family in the Middle East.</p>
+      <p>We are <a href="#roy">Roy</a>, <a href="#angela">Angela</a>, <a href="#nathan">Nathan</a> and <a href="#luke"> Luke</a> <strong>Verrips</strong>, a <a href="#gospel">Christian</a> family living in Naperville, Illinois for just over 4 years now.  We are originally from South Africa, but spent almost 15 years living as a family in the Middle East.</p>
       <br>
-      <p>We moved from Dubai towards then end of 2016, where we lived for most of our time in the gulf, but in between a few moves within Dubai, we have also lived a year in Abu Dhabi, and two years in Doha, Qatar. We are a bible believing <a href="#gospel">Christian</a> family who strive to put God at the center of our household.</p>
+      <p>We moved from Dubai towards the end of 2016, where we lived for most of our time in the gulf, but in between a few moves within Dubai, we have also lived a year in Abu Dhabi, and two years in Doha, Qatar. We are a bible believing <a href="#gospel">Christian</a> family who strive to put God at the center of our household.</p>
       <br>
       <p>We are currently seeking membership at <a href="https://www.npchurch.org/">Naperville Presbyterian Church</a>.  We pray and trust that God will continue to strengthen us in His mercy and grace, and that we may be a blessing to those He brings across our path.</p><br>
       <p><i>Our God is a gracious and merciful God!</i></p>
       <br>
       <p>Yours in Him</p>
       <p>The Verrips Family</p>
-      <p><small>(Updated September 2020)</small></p>
+      <p><small>(Updated January 2021)</small></p>
       <div class="clear"> </div>
       </div>
     </div>
