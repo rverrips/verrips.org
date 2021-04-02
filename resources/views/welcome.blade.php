@@ -179,7 +179,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <br>
       <p>Yours in Him</p>
       <p>The Verrips Family</p>
-      <p><small>(Updated January 2021)</small></p>
+      <p><small>(Updated April 2021)</small></p>
       <div class="clear"> </div>
       </div>
     </div>
@@ -187,15 +187,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <!-- page roy -->
       <h1 class="page_title"> Roy</h1>
       <div class="page_content">
-        <p><img src="./docs/images/roy-80x80.png" class="left no_border" alt="Roy Verrips" style="margin-top: 0px; margin-right: 0px" ><strong>Roy</strong> works as Intranet Systems Manager for the Hyatt Hotels Corporation in downtown Chicago – Aside from spending time with his family he loves reading and does a little php, mysql, html5, css and laravel <i>“on the side.”</i>  You can contact or follow Roy on the following networks:</p>
+        <p><img src="./docs/images/roy-80x80.png" class="left no_border" alt="Roy Verrips" style="margin-top: 0px; margin-right: 0px" ><strong>Roy</strong> works as a Governance Risk and Compliance (GRC) Systems consultant for <a href="https://cential.co" target="_blank">Cential</a> on <a href="https://twitter.com/hashtag/TransformativeRisk" target="_blank">#TransformativeRisk</a> – Aside from spending time with his family he loves reading and does a little php, javascript and laravel <i>“on the side.”</i>  You can contact or follow Roy on the following networks:</p>
         <div class="space"> </div>
         <div class="clear"> </div>
         <ul class="grid">
-          <li class="keybase"><a target="_blank" href="https://keybase.io/rverrips"> <img src="./docs/images/links/keybase.png" alt="Keybase"></a></li>
           <li class="linkedin"><a target="_blank" href="https://www.linkedin.com/in/rverrips"> <img src="./docs/images/links/LinkedIn.png" alt="linkedin"></a></li>
-          <li class="facebook"><a target="_blank" href="https://www.facebook.com/rverrips"> <img src="./docs/images/links/Facebook.png" alt="Facebook"></a></li>
           <li class="twitter"><a target="_blank" href="https://www.twitter.com/rverrips"> <img src="./docs/images/links/twitter.png" alt="Twitter"></a></li>
+          <li class="keybase"><a target="_blank" href="https://keybase.io/rverrips"> <img src="./docs/images/links/keybase.png" alt="Keybase"></a></li>
           <li class="aboutme"><a target="_blank" href="https://about.me/rverrips/"> <img src="./docs/images/links/aboutme.png" alt="About Me"></a></li>
+          <li class="facebook"><a target="_blank" href="https://www.facebook.com/rverrips"> <img src="./docs/images/links/Facebook.png" alt="Facebook"></a></li>
           <li class="instagram"><a target="_blank" href="https://www.instagram.com/rverrips"> <img src="./docs/images/links/instagram.png" alt="Instagram"></a></li>
           <li class="pinterest"><a target="_blank" href="https://www.pinterest.com/rverrips"> <img src="./docs/images/links/pinterest.png" alt="Pinterest"></a></li>
         </ul>
