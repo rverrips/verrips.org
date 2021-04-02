@@ -1,13 +1,24 @@
 {
     "workbench.colorCustomizations": {
-        "statusBar.background": "#1D856D",
-        "statusBar.foreground": "#fff",
-        "activityBar.background": "#1D856D",
-        "activityBar.foreground": "#fff"
+        "statusBar.background": "#145b4b",
+        "statusBar.foreground": "#e7e7e7",
+        "activityBar.background": "#1d856d",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.activeBackground": "#1d856d",
+        "activityBar.activeBorder": "#d596e8",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#d596e8",
+        "activityBarBadge.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#1d856d",
+        "titleBar.activeBackground": "#145b4b",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#145b4b99",
+        "titleBar.inactiveForeground": "#e7e7e799"
     },
     "now.instance.user.name": "",
     "now.instance.host.url": "",
     "now.instance.OAuth.client.id": "",
     "now.instance.user.password": "",
-    "now.instance.OAuth.client.secret": ""
+    "now.instance.OAuth.client.secret": "",
+    "peacock.color": "#145b4b"
 }
