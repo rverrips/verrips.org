@@ -227,6 +227,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <ul>
         <!-- <ul class="grid"> -->
             <li><a href="https://www.thegoodportionbooks.com">The Good Portion Book Series</a></li>
+            <li><a href="https://www.holytrinitybenoni.co.za">Holy Trinity Church, Benoni</a></li>
             <li><a href="https://www.donkirkwood.com">DonKirkwood.com</a></li>
 <!--            <li class="twitter"><a href="http://www.twitter.com/nverrips"> <img src="./docs/images/links/twitter.png" alt="Twitter"></a></li>
           <li class="instagram"><a href="http://www.instagram.com/nverrips"> <img src="./docs/images/links/instagram.png" alt="Instagram"></a></li> -->
