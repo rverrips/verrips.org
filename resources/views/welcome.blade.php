@@ -115,7 +115,7 @@
                     <li><a href="#luke">Luke</a></li>
                     <!--    <li><a href="#map">Find Us</a></li> -->
                     <li><a href="#gospel">What We Believe</a></li>
-                    {{-- <li><a href="timeline/index.html">History of this site</a></li> --}}
+                    <li><a href="timeline/index.html">History of this site</a></li>
                     <!-- <li><a href="#contact">Contact us</a></li> -->
                 </ul>
             </div>
