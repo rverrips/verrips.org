@@ -175,11 +175,11 @@
                         <p>We moved from Dubai towards the end of 2016, where we lived for most of our time in the gulf, but in between a few moves within Dubai, we have also lived a year in Abu Dhabi, and two years in Doha, Qatar. We are a bible believing <a href="#gospel">Christian</a> family who strive to put God at the center of our household.</p>
                         <br>
                         <p>We are currently seeking membership at <a href="https://www.npchurch.org/">Naperville Presbyterian Church</a>.  We pray and trust that God will continue to strengthen us in His mercy and grace, and that we may be a blessing to those He brings across our path.</p><br>
-                        <p><i>Our God is a gracious and merciful God!</i></p>
+                        <p><i>Our Saviour is Gentle and Lowly in heart. (<a href="https://esv.org/Matthew11:29b">Matthew 11:29</a>)</i></p>
                         <br>
                         <p>Yours in Him</p>
                         <p>The Verrips Family</p>
-                        <p><small>(Updated April 2021)</small></p>
+                        <p><small>(Updated October 2021)</small></p>
                         <div class="clear"> </div>
                     </div>
                 </div>
@@ -187,7 +187,7 @@
                     <!-- page roy -->
                     <h1 class="page_title"> Roy</h1>
                     <div class="page_content">
-                        <p><img src="./docs/images/roy-80x80.png" class="left no_border" alt="Roy Verrips" style="margin-top: 0px; margin-right: 0px" ><strong>Roy</strong> works as a Governance Risk and Compliance (GRC) Systems consultant for <a href="https://cential.co" target="_blank">Cential</a> on <a href="https://twitter.com/hashtag/TransformativeRisk" target="_blank">#TransformativeRisk</a> – Aside from spending time with his family he loves reading and does a little php, javascript and laravel <i>“on the side.”</i>  You can contact or follow Roy on the following networks:</p>
+                        <p><img src="./docs/images/Roy-2021-Smile-300x300.png" class="left no_border" alt="Roy Verrips" style="margin-top: 0px; margin-right: 0px" height="80px" width="80px"><strong>Roy</strong> works as a Governance Risk and Compliance (GRC) Systems consultant for <a href="https://cential.co" target="_blank">Cential</a> on <a href="https://twitter.com/hashtag/TransformativeRisk" target="_blank">#TransformativeRisk</a> – Aside from spending time with his family he loves reading and does a little php, javascript and laravel <i>“on the side.”</i>  You can contact or follow Roy on the following networks:</p>
                         <div class="space"> </div>
                         <div class="clear"> </div>
                         <ul class="grid">
@@ -206,7 +206,7 @@
                     <!-- page angela -->
                     <h1 class="page_title"> Angela</h1>
                     <div class="page_content">
-                        <p><img src="./docs/images/angela-80x80.png" class="left no_border" alt="Angela Verrips" style="margin-top: 0px; margin-right: 0px" ><strong>Angela</strong> works from home (i.e. is a housewife) raising and homeschooling <a href="#nathan">Nathan</a> and <a href="#luke"> Luke</a>.  Angela also strives to make our home a "safe haven", so enjoys also being a sales consultant for <a target="_blank" href="https://angelaverrips.norwex.biz">Norwex</a>, North America.  To relax Angela enjoys to knit and crochet.  She is an excellent cook and her oven baked macaroni and cheese is legendary.  She also enjoys baking cookies and other treats, so come hungry!  Angela's <a target="_blank" href="https://angelaverrips.norwex.biz">Norwex</a> consultant site and social network links are below:</p>
+                        <p><img src="./docs/images/angela-2020-150x150.png" class="left no_border" alt="Angela Verrips" style="margin-top: 0px; margin-right: 0px" height="80px" width="80px"><strong>Angela</strong> works from home (i.e. is a housewife) raising and homeschooling <a href="#nathan">Nathan</a> and <a href="#luke"> Luke</a>.  Angela also strives to make our home a "safe haven", so enjoys also being a sales consultant for <a target="_blank" href="https://angelaverrips.norwex.biz">Norwex</a>, North America.  To relax Angela enjoys to knit and crochet.  She is an excellent cook and her oven baked macaroni and cheese is legendary.  She also enjoys baking cookies and other treats, so come hungry!  Angela's <a target="_blank" href="https://angelaverrips.norwex.biz">Norwex</a> consultant site and social network links are below:</p>
                         <div class="space"> </div>
                         <div class="clear"> </div>
                         <ul class="grid">
@@ -221,7 +221,7 @@
                     <!-- page nathan -->
                     <h1 class="page_title"> Nathan</h1>
                     <div class="page_content">
-                        <p><img src="./docs/images/nathan-2017-80x80.png" class="left no_border" alt="Nathan Verrips" style="margin-top: 0px; margin-right: 0px" ><strong>Nathan</strong> is nineteen, and loves board games, reading and programing things.  Nathan is currently a student at <a href="https://cod.edu">College of DuPage</a> pursuing an Associates Degree in Science which, but God's grace, is the first step on his path into optometry/ophthalmology.  He also keeps busy editing and updating a number of Christian websites linked below:<p>
+                        <p><img src="./docs/images/nathan-2020-300x300.png" class="left no_border" alt="Nathan Verrips" style="margin-top: 0px; margin-right: 0px" height="80px" width="80px"><strong>Nathan</strong> is twenty, and loves board games, reading and programing things.  Nathan is currently a student at <a href="https://cod.edu">College of DuPage</a> pursuing an Associates Degree in Science which, but God's grace, is the first step on his path into optometry/ophthalmology.  He also keeps busy editing and updating a number of Christian websites linked below:<p>
                             <div class="space"> </div>
                             <div class="clear"> </div>
                             <ul>
@@ -246,7 +246,7 @@
                                 <!-- page luke -->
                                 <h1 class="page_title"> Luke</h1>
                                 <div class="page_content">
-                                    <p><img src="./docs/images/luke-2018-80x80.png" class="left no_border" alt="Luke Verrips" style="margin-top: 0px; margin-right: 0px" ><strong>Luke</strong> is fourteen years old and loves spending time with people, especially when they can talk through serious things like game theory and strategy (and sometimes just silly things too). Like his brother, Nathan, Luke loves strategy games, board games and role-playing games.  The two of them are in various clubs and online groups and leagues.  When it comes to video games, Luke only has a single-minded passion, <a href="https://www.ea.com/games/titanfall/titanfall-2">TitanFall 2</a>.  Luke does stream a bit and you can see his endeavors on YouTube as linked below.</p>
+                                    <p><img src="./docs/images/luke-2021-300x300.png" class="left no_border" alt="Luke Verrips" style="margin-top: 0px; margin-right: 0px" height="80px" width="80px"><strong>Luke</strong> is fifteen years old and loves spending time with people, especially when they can talk through serious things like game theory and strategy (and sometimes just silly things too). Like his brother, Nathan, Luke loves strategy games, board games and role-playing games.  The two of them are in various clubs and online groups and leagues.  Luke's favourite video game is currently <a href="https://www.bungie.net/7/en/Destiny/Buy/playforfree">Destiny 2</a>.  Luke does stream a bit and you can see his endeavors on YouTube as linked below.</p>
                                     <div class="space"> </div>
                                     <div class="clear"> </div>
                                     <ul class="grid">
