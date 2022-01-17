@@ -16,6 +16,7 @@
         "vue-template-compiler": "^2.6.12",
         "node-forge": ">=1.0.0",
         "@tailwindcss/ui": "^0.7.2",
-        "postcss-import": "^14.0.2"
+        "postcss-import": "^14.0.2",
+        "follow-redirects": ">=1.14.7"
     }
 }
