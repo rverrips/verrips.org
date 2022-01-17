@@ -13,9 +13,8 @@
         "laravel-mix": "^6.0.18",
         "resolve-url-loader": "^4.0.0",
         "tailwindcss": "^1.9.6",
-        "vue-template-compiler": "^2.6.12"
-    },
-    "dependencies": {
+        "vue-template-compiler": "^2.6.12",
+        "node-forge": ">=1.0.0",
         "@tailwindcss/ui": "^0.7.2",
         "postcss-import": "^14.0.2"
     }
