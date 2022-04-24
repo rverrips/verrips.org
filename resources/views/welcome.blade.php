@@ -170,7 +170,7 @@
                     <!-- page about -->
                     <h1 class="page_title"> About Us</h1>
                     <div class="page_content">
-                        <p>We are <a href="#roy">Roy</a>, <a href="#angela">Angela</a>, <a href="#nathan">Nathan</a> and <a href="#luke"> Luke</a> <strong>Verrips</strong>, a <a href="#gospel">Christian</a> family living in Naperville, Illinois for just over 4 years now.  We are originally from South Africa, but spent almost 15 years living as a family in the Middle East.</p>
+                        <p>We are <a href="#roy">Roy</a>, <a href="#angela">Angela</a>, <a href="#nathan">Nathan</a> and <a href="#luke"> Luke</a> <strong>Verrips</strong>, a <a href="#gospel">Christian</a> family living in Naperville, Illinois for just over 5 years now.  We are originally from South Africa, but spent almost 15 years living as a family in the Middle East.</p>
                         <br>
                         <p>We moved from Dubai towards the end of 2016, where we lived for most of our time in the gulf, but in between a few moves within Dubai, we have also lived a year in Abu Dhabi, and two years in Doha, Qatar. We are a bible believing <a href="#gospel">Christian</a> family who strive to put God at the center of our household.</p>
                         <br>
@@ -179,7 +179,7 @@
                         <br>
                         <p>Yours in Him</p>
                         <p>The Verrips Family</p>
-                        <p><small>(Updated October 2021)</small></p>
+                        <p><small>(Updated April 2022)</small></p>
                         <div class="clear"> </div>
                     </div>
                 </div>
@@ -187,7 +187,7 @@
                     <!-- page roy -->
                     <h1 class="page_title"> Roy</h1>
                     <div class="page_content">
-                        <p><img src="./docs/images/Roy-2021-Smile-300x300.png" class="left no_border" alt="Roy Verrips" style="margin-top: 0px; margin-right: 0px" height="80px" width="80px"><strong>Roy</strong> works as a Governance Risk and Compliance (GRC) Systems consultant for <a href="https://cential.co" target="_blank">Cential</a> on <a href="https://twitter.com/hashtag/TransformativeRisk" target="_blank">#TransformativeRisk</a> – Aside from spending time with his family he loves reading and does a little php, javascript and laravel <i>“on the side.”</i>  You can contact or follow Roy on the following networks:</p>
+                        <p><img src="./docs/images/Roy-2021-Smile-300x300.png" class="left no_border" alt="Roy Verrips" style="margin-top: 0px; margin-right: 0px" height="80px" width="80px"><strong>Roy</strong> works as a Governance Risk and Compliance (GRC) Systems Integration Consultant for <a href="https://cential.co" target="_blank">Cential</a> – Aside from spending time with his family he loves reading and does a little php, javascript and laravel <i>“on the side.”</i>  You can contact or follow Roy on the following networks:</p>
                         <div class="space"> </div>
                         <div class="clear"> </div>
                         <ul class="grid">
@@ -206,7 +206,7 @@
                     <!-- page angela -->
                     <h1 class="page_title"> Angela</h1>
                     <div class="page_content">
-                        <p><img src="./docs/images/angela-2020-150x150.png" class="left no_border" alt="Angela Verrips" style="margin-top: 0px; margin-right: 0px" height="80px" width="80px"><strong>Angela</strong> works from home (i.e. is a housewife) raising and homeschooling <a href="#nathan">Nathan</a> and <a href="#luke"> Luke</a>.  Angela also strives to make our home a "safe haven", so enjoys also being a sales consultant for <a target="_blank" href="https://angelaverrips.norwex.biz">Norwex</a>, North America.  To relax Angela enjoys to knit and crochet.  She is an excellent cook and her oven baked macaroni and cheese is legendary.  She also enjoys baking cookies and other treats, so come hungry!  Angela's <a target="_blank" href="https://angelaverrips.norwex.biz">Norwex</a> consultant site and social network links are below:</p>
+                        <p><img src="./docs/images/angela-2020-150x150.png" class="left no_border" alt="Angela Verrips" style="margin-top: 0px; margin-right: 0px" height="80px" width="80px"><strong>Angela</strong> works from home (i.e. is a housewife) raising and homeschooling <a href="#nathan">Nathan</a> and <a href="#luke"> Luke</a>.  Angela further strives to make our home a "safe haven", so enjoys also being a sales consultant for <a target="_blank" href="https://angelaverrips.norwex.biz">Norwex</a>, North America.  To relax Angela enjoys to knit and crochet.  She is an excellent cook and her oven baked macaroni and cheese is legendary.  She also enjoys baking cookies and other treats, so come hungry!  Angela's <a target="_blank" href="https://angelaverrips.norwex.biz">Norwex</a> consultant site and social network links are below:</p>
                         <div class="space"> </div>
                         <div class="clear"> </div>
                         <ul class="grid">
@@ -221,7 +221,7 @@
                     <!-- page nathan -->
                     <h1 class="page_title"> Nathan</h1>
                     <div class="page_content">
-                        <p><img src="./docs/images/nathan-2020-300x300.png" class="left no_border" alt="Nathan Verrips" style="margin-top: 0px; margin-right: 0px" height="80px" width="80px"><strong>Nathan</strong> is twenty, and loves board games, reading and programing things.  Nathan is currently a student at <a href="https://cod.edu">College of DuPage</a> pursuing an Associates Degree in Science which, but God's grace, is the first step on his path into optometry/ophthalmology.  He also keeps busy editing and updating a number of Christian websites linked below:<p>
+                        <p><img src="./docs/images/nathan-2020-300x300.png" class="left no_border" alt="Nathan Verrips" style="margin-top: 0px; margin-right: 0px" height="80px" width="80px"><strong>Nathan</strong> is twenty, and loves board games, reading and programming things.  Nathan is currently a student at <a href="https://cod.edu">College of DuPage</a> pursuing an Associates Degree in Science which, by God's grace, is the first step on his path into optometry/ophthalmology.  He also keeps busy editing and updating a number of Christian websites linked below:<p>
                             <div class="space"> </div>
                             <div class="clear"> </div>
                             <ul>
