@@ -170,16 +170,18 @@
                     <!-- page about -->
                     <h1 class="page_title"> About Us</h1>
                     <div class="page_content">
-                        <p>We are <a href="#roy">Roy</a>, <a href="#angela">Angela</a>, <a href="#nathan">Nathan</a> and <a href="#luke"> Luke</a> <strong>Verrips</strong>, a <a href="#gospel">Christian</a> family living in Greer, South Carolina.  We moved here in the summer of 2022 after five and a half years in Naperville, Illinois.  We are originally from South Africa, but before moving to the US spent about 15 years living as a family in the Middle East.</p>
+                        <p>We are <a href="#roy">Roy</a>, <a href="#angela">Angela</a>, <a href="#nathan">Nathan</a> and <a href="#luke"> Luke</a> <strong>Verrips</strong>, a <a href="#gospel">Christian</a> family living in Greer, South Carolina since the summer of 2022.   </p>
                         <br>
-                        <p>We moved from Dubai towards the end of 2016, where we lived for most of our time in the gulf, but in between a few moves within Dubai, we have also lived a year in Abu Dhabi, and two years in Doha, Qatar. We are a bible believing <a href="#gospel">Christian</a> family who strive to put God at the center of our household.</p>
+                        <p>We are originally from South Africa, but before moving to the US in 2016 we spent about 15 years living as a family in the Middle East.  Dubai in the United Arab Emirates was home for most of our time in the gulf, but we also lived for a year in Abu Dhabi, and two years in Doha, Qatar. </p>
                         <br>
-                        <p>We are currently seeking a new church home in Greenville.  We pray and trust that God will continue to strengthen us in His mercy and grace, and that we may be a blessing to those He brings across our path.</p><br>
+                        <p>We are a bible believing <a href="#gospel">Christian</a> family who strive to put God at the center of our household.  Roy and Angela are members of <a href="http://reidvillepreschurch.com">Reidville Presbytarian Church of America</a>.</p>
+                        <br>
+                        <p>We pray and trust that God will continue to strengthen us in His mercy and grace, and that we may be a blessing to those He brings across our path.</p><br>
                         <p><i>Our Saviour is Gentle and Lowly in heart. (<a href="https://esv.org/Matthew11:29b">Matthew 11:29</a>)</i></p>
                         <br>
                         <p>Yours in Him</p>
                         <p>The Verrips Family</p>
-                        <p><small>(Updated July 2022)</small></p>
+                        <p><small>(Updated September 2022)</small></p>
                         <div class="clear"> </div>
                     </div>
                 </div>
@@ -221,7 +223,7 @@
                     <!-- page nathan -->
                     <h1 class="page_title"> Nathan</h1>
                     <div class="page_content">
-                        <p><img src="./docs/images/nathan-2020-300x300.png" class="left no_border" alt="Nathan Verrips" style="margin-top: 0px; margin-right: 0px" height="80px" width="80px"><strong>Nathan</strong> is twenty, and loves board games, reading and programming things.  Nathan is currently a student at <a href="https://cod.edu">College of DuPage</a> pursuing an Associates Degree in Science which, by God's grace, is the first step on his path into optometry/ophthalmology.  He also keeps busy editing and updating a number of Christian websites linked below:<p>
+                        <p><img src="./docs/images/nathan-2020-300x300.png" class="left no_border" alt="Nathan Verrips" style="margin-top: 0px; margin-right: 0px" height="80px" width="80px"><strong>Nathan</strong> is twenty, and loves board games, reading and programming things.  Nathan is currently a student at <a href="https://www.cod.edu/about/stories/students/verrips.aspx">College of DuPage</a> pursuing an Associates Degree in Science which, by God's grace, is the first step on his path into a career of <a href="https://www.cod.edu/about/stories/students/verrips.aspx">optometry/ophthalmology</a>.<br>  He also keeps busy editing and updating a number of Christian websites linked below:<p>
                             <div class="space"> </div>
                             <div class="clear"> </div>
                             <ul>
