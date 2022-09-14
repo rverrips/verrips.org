@@ -127,14 +127,11 @@
                         <div class="gf-slider">
                             <!-- slider -->
                             <ul class="slides">
-                                <li> <img src="./docs/images/verrips-2018.png" alt="Roy, Nathan, Luke and Angela - Naperville, IL 2018" />
-                                    <p class="flex-caption"> Roy, Nathan, Luke and Angela - Naperville, IL 2018</p>
-                                </li>
-                                <li> <img src="./docs/images/verrips-2018b.png" alt="Luke, Angela, Roy and Nathan Verrips - Naperville, IL 2018" />
-                                    <p class="flex-caption"> Luke, Angela, Roy and Nathan Verrips - Naperville, IL 2018</p>
-                                </li>
                                 <li> <img src="./docs/images/verrips-2020.png" alt="Luke, Roy, Nathan and Angela Verrips - Naperville, IL 2020" />
                                     <p class="flex-caption"> Luke, Roy, Nathan and Angela Verrips - Naperville, IL 2020</p>
+                                </li>
+                                <li> <img src="./docs/images/verrips-2021.png" alt="Nathan, Angela, Roy and Luke Verrips - Naperville, IL 2021" />
+                                    <p class="flex-caption"> Nathan, Angela, Roy and Luke Verrips - Naperville, IL 2021</p>
                                 </li>
                                 <li> <img src="./docs/images/verrips-2004.png" alt="Rachel, Angela, Roy and Nathan Verrips - Dubai 2004" />
                                     <p class="flex-caption"> Rachel, Angela, Roy and Nathan Verrips - Dubai 2004</p>
@@ -157,8 +154,11 @@
                                 <li> <img src="./docs/images/verrips-2014.png" alt="Nathan, Angela, Luke and Roy Verrips - Doha, Qatar 2014" />
                                     <p class="flex-caption"> Nathan, Angela, Luke and Roy Verrips - Doha, Qatar 2014</p>
                                 </li>
-                                <li> <img src="./docs/images/verrips-2014b.png" alt="Angela, Nathan, Roy and Luke Verrips - Doha, Qatar 2014" />
+                                {{-- <li> <img src="./docs/images/verrips-2014b.png" alt="Angela, Nathan, Roy and Luke Verrips - Doha, Qatar 2014" />
                                     <p class="flex-caption"> Angela, Nathan, Roy and Luke Verrips - Doha, Qatar 2014</p>
+                                </li> --}}
+                                <li> <img src="./docs/images/verrips-2018b.png" alt="Luke, Angela, Roy and Nathan Verrips - Naperville, IL 2018" />
+                                    <p class="flex-caption"> Luke, Angela, Roy and Nathan Verrips - Naperville, IL 2018</p>
                                 </li>
                             </ul>
                         </div>
@@ -170,16 +170,18 @@
                     <!-- page about -->
                     <h1 class="page_title"> About Us</h1>
                     <div class="page_content">
-                        <p>We are <a href="#roy">Roy</a>, <a href="#angela">Angela</a>, <a href="#nathan">Nathan</a> and <a href="#luke"> Luke</a> <strong>Verrips</strong>, a <a href="#gospel">Christian</a> family living in Naperville, Illinois for just over 5 years now.  We are originally from South Africa, but spent almost 15 years living as a family in the Middle East.</p>
+                        <p>We are <a href="#roy">Roy</a>, <a href="#angela">Angela</a>, <a href="#nathan">Nathan</a> and <a href="#luke"> Luke</a> <strong>Verrips</strong>, a <a href="#gospel">Christian</a> family living in Greer, South Carolina since the summer of 2022.   </p>
                         <br>
-                        <p>We moved from Dubai towards the end of 2016, where we lived for most of our time in the gulf, but in between a few moves within Dubai, we have also lived a year in Abu Dhabi, and two years in Doha, Qatar. We are a bible believing <a href="#gospel">Christian</a> family who strive to put God at the center of our household.</p>
+                        <p>We are originally from South Africa, but before moving to the US in 2016 we spent about 15 years living as a family in the Middle East.  Dubai in the United Arab Emirates was home for most of our time in the gulf, but we also lived for a year in Abu Dhabi, and two years in Doha, Qatar. </p>
                         <br>
-                        <p>We are currently seeking membership at <a href="https://www.npchurch.org/">Naperville Presbyterian Church</a>.  We pray and trust that God will continue to strengthen us in His mercy and grace, and that we may be a blessing to those He brings across our path.</p><br>
+                        <p>We are a bible believing <a href="#gospel">Christian</a> family who strive to put God at the center of our household.  Roy and Angela are members of <a href="http://reidvillepreschurch.com">Reidville Presbytarian Church of America</a>.</p>
+                        <br>
+                        <p>We pray and trust that God will continue to strengthen us in His mercy and grace, and that we may be a blessing to those He brings across our path.</p><br>
                         <p><i>Our Saviour is Gentle and Lowly in heart. (<a href="https://esv.org/Matthew11:29b">Matthew 11:29</a>)</i></p>
                         <br>
                         <p>Yours in Him</p>
                         <p>The Verrips Family</p>
-                        <p><small>(Updated April 2022)</small></p>
+                        <p><small>(Updated September 2022)</small></p>
                         <div class="clear"> </div>
                     </div>
                 </div>
@@ -194,10 +196,10 @@
                             <li class="linkedin"><a target="_blank" href="https://www.linkedin.com/in/rverrips"> <img src="./docs/images/links/LinkedIn.png" alt="linkedin"></a></li>
                             <li class="twitter"><a target="_blank" href="https://www.twitter.com/rverrips"> <img src="./docs/images/links/twitter.png" alt="Twitter"></a></li>
                             <li class="keybase"><a target="_blank" href="https://keybase.io/rverrips"> <img src="./docs/images/links/keybase.png" alt="Keybase"></a></li>
-                            <li class="aboutme"><a target="_blank" href="https://about.me/rverrips/"> <img src="./docs/images/links/aboutme.png" alt="About Me"></a></li>
+                            {{-- <li class="aboutme"><a target="_blank" href="https://about.me/rverrips/"> <img src="./docs/images/links/aboutme.png" alt="About Me"></a></li> --}}
                             <li class="facebook"><a target="_blank" href="https://www.facebook.com/rverrips"> <img src="./docs/images/links/Facebook.png" alt="Facebook"></a></li>
                             <li class="instagram"><a target="_blank" href="https://www.instagram.com/rverrips"> <img src="./docs/images/links/instagram.png" alt="Instagram"></a></li>
-                            <li class="pinterest"><a target="_blank" href="https://www.pinterest.com/rverrips"> <img src="./docs/images/links/pinterest.png" alt="Pinterest"></a></li>
+                            {{-- <li class="pinterest"><a target="_blank" href="https://www.pinterest.com/rverrips"> <img src="./docs/images/links/pinterest.png" alt="Pinterest"></a></li> --}}
                         </ul>
                         <div class="clear"> </div>
                     </div>
@@ -206,7 +208,7 @@
                     <!-- page angela -->
                     <h1 class="page_title"> Angela</h1>
                     <div class="page_content">
-                        <p><img src="./docs/images/angela-2020-150x150.png" class="left no_border" alt="Angela Verrips" style="margin-top: 0px; margin-right: 0px" height="80px" width="80px"><strong>Angela</strong> works from home (i.e. is a housewife) raising and homeschooling <a href="#nathan">Nathan</a> and <a href="#luke"> Luke</a>.  Angela further strives to make our home a "safe haven", so enjoys also being a sales consultant for <a target="_blank" href="https://angelaverrips.norwex.biz">Norwex</a>, North America.  To relax Angela enjoys to knit and crochet.  She is an excellent cook and her oven baked macaroni and cheese is legendary.  She also enjoys baking cookies and other treats, so come hungry!  Angela's <a target="_blank" href="https://angelaverrips.norwex.biz">Norwex</a> consultant site and social network links are below:</p>
+                        <p><img src="./docs/images/angela-2020-150x150.png" class="left no_border" alt="Angela Verrips" style="margin-top: 0px; margin-right: 0px" height="80px" width="80px"><strong>Angela</strong> works from home (i.e. is a housewife) caring for <a href="#roy">Roy</a>, <a href="#nathan">Nathan</a> and <a href="#luke"> Luke</a>.  Angela further strives to make our home a "safe haven", so enjoys also being a sales consultant for <a target="_blank" href="https://angelaverrips.norwex.biz">Norwex</a>, North America.  To relax Angela enjoys to knit and crochet.  She is an excellent cook and her oven baked macaroni and cheese is legendary.  She also enjoys baking cookies and other treats, so come hungry!  Angela's <a target="_blank" href="https://angelaverrips.norwex.biz">Norwex</a> consultant site and social network links are below:</p>
                         <div class="space"> </div>
                         <div class="clear"> </div>
                         <ul class="grid">
@@ -221,13 +223,12 @@
                     <!-- page nathan -->
                     <h1 class="page_title"> Nathan</h1>
                     <div class="page_content">
-                        <p><img src="./docs/images/nathan-2020-300x300.png" class="left no_border" alt="Nathan Verrips" style="margin-top: 0px; margin-right: 0px" height="80px" width="80px"><strong>Nathan</strong> is twenty, and loves board games, reading and programming things.  Nathan is currently a student at <a href="https://cod.edu">College of DuPage</a> pursuing an Associates Degree in Science which, by God's grace, is the first step on his path into optometry/ophthalmology.  He also keeps busy editing and updating a number of Christian websites linked below:<p>
+                        <p><img src="./docs/images/nathan-2020-300x300.png" class="left no_border" alt="Nathan Verrips" style="margin-top: 0px; margin-right: 0px" height="80px" width="80px"><strong>Nathan</strong> is twenty, and loves board games, reading and programming things.  Nathan is currently a student at <a href="https://www.cod.edu/about/stories/students/verrips.aspx">College of DuPage</a> pursuing an Associates Degree in Science which, by God's grace, is the first step on his path into a career of <a href="https://www.cod.edu/about/stories/students/verrips.aspx">optometry/ophthalmology</a>.<br>  He also keeps busy editing and updating a number of Christian websites linked below:<p>
                             <div class="space"> </div>
                             <div class="clear"> </div>
                             <ul>
                                 <!-- <ul class="grid"> -->
                                     <li><a href="https://www.thegoodportionbooks.com">The Good Portion Book Series</a></li>
-                                    <li><a href="https://www.holytrinitybenoni.co.za">Holy Trinity Church, Benoni</a></li>
                                     <li><a href="https://www.donkirkwood.com">DonKirkwood.com</a></li>
                                     <!--            <li class="twitter"><a href="http://www.twitter.com/nverrips"> <img src="./docs/images/links/twitter.png" alt="Twitter"></a></li>
                                         <li class="instagram"><a href="http://www.instagram.com/nverrips"> <img src="./docs/images/links/instagram.png" alt="Instagram"></a></li> -->
@@ -246,11 +247,12 @@
                                 <!-- page luke -->
                                 <h1 class="page_title"> Luke</h1>
                                 <div class="page_content">
-                                    <p><img src="./docs/images/luke-2021-300x300.png" class="left no_border" alt="Luke Verrips" style="margin-top: 0px; margin-right: 0px" height="80px" width="80px"><strong>Luke</strong> is fifteen years old and loves spending time with people, especially when they can talk through serious things like game theory and strategy (and sometimes just silly things too). Like his brother, Nathan, Luke loves strategy games, board games and role-playing games.  The two of them are in various clubs and online groups and leagues.  Luke's favourite video game is currently <a href="https://www.bungie.net/7/en/Destiny/Buy/playforfree">Destiny 2</a>.  Luke does stream a bit and you can see his endeavors on YouTube as linked below.</p>
+                                    <p><img src="./docs/images/luke-2021-300x300.png" class="left no_border" alt="Luke Verrips" style="margin-top: 0px; margin-right: 0px" height="80px" width="80px"><strong>Luke</strong> is sixteen years old and loves spending time with people, especially when they can talk through serious things like game theory and strategy (and sometimes just silly things too). Like his brother, Nathan, Luke loves strategy games, board games and role-playing games.  The two of them are in various clubs and online groups and leagues.</p><br>
+                                    <p>Luke has some interesting uploads on his YouTube channel (under the handle <em>SkilfulArcher</em>) linked below.</p>
                                     <div class="space"> </div>
                                     <div class="clear"> </div>
                                     <ul class="grid">
-                                        <li class="youtube"><a target="_blank" href="https://www.youtube.com/channel/UC_DJ_rjcnNncXmp0JgXwx3A"> <img src="./docs/images/links/youtube.png" alt="YouTube"></a></li>
+                                        <li class="youtube"><a target="_blank" href="https://www.youtube.com/channel/UCmeD_IakA3tsDZhGXfu5D7Q"> <img src="./docs/images/links/youtube.png" alt="YouTube"></a></li>
                                     </ul>
                                     <div class="clear"> </div>
                                 </div>
