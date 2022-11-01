@@ -170,18 +170,18 @@
                     <!-- page about -->
                     <h1 class="page_title"> About Us</h1>
                     <div class="page_content">
-                        <p>We are <a href="#roy">Roy</a>, <a href="#angela">Angela</a>, <a href="#nathan">Nathan</a> and <a href="#luke"> Luke</a> <strong>Verrips</strong>, a <a href="#gospel">Christian</a> family living in Greer, South Carolina since the summer of 2022.   </p>
+                        <p>We are <a href="#roy">Roy</a>, <a href="#angela">Angela</a>, <a href="#nathan">Nathan</a> and <a href="#luke"> Luke</a> <strong>Verrips</strong>, a <a href="#gospel">Christian</a> family living in Greer, South Carolina since the summer of 2022.</p>
                         <br>
                         <p>We are originally from South Africa, but before moving to the US in 2016 we spent about 15 years living as a family in the Middle East.  Dubai in the United Arab Emirates was home for most of our time in the gulf, but we also lived for a year in Abu Dhabi, and two years in Doha, Qatar. </p>
                         <br>
-                        <p>We are a bible believing <a href="#gospel">Christian</a> family who strive to put God at the center of our household.  Roy and Angela are members of <a href="http://reidvillepreschurch.com">Reidville Presbytarian Church of America</a>.</p>
+                        <p>We are a bible believing <a href="#gospel">Christian</a> family who strive to put God at the center of our household.  Roy and Angela are members of <a href="https://reidvillepca.org">Reidville Presbytarian Church in America</a>.</p>
                         <br>
                         <p>We pray and trust that God will continue to strengthen us in His mercy and grace, and that we may be a blessing to those He brings across our path.</p><br>
                         <p><i>Our Saviour is Gentle and Lowly in heart. (<a href="https://esv.org/Matthew11:29b">Matthew 11:29</a>)</i></p>
                         <br>
                         <p>Yours in Him</p>
                         <p>The Verrips Family</p>
-                        <p><small>(Updated September 2022)</small></p>
+                        <p><small>(Updated October 2022)</small></p>
                         <div class="clear"> </div>
                     </div>
                 </div>
