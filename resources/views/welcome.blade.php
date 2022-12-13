@@ -181,7 +181,7 @@
                         <br>
                         <p>Yours in Him</p>
                         <p>The Verrips Family</p>
-                        <p><small>(Updated October 2022)</small></p>
+                        <p><small>(Updated December 2022)</small></p>
                         <div class="clear"> </div>
                     </div>
                 </div>
@@ -223,13 +223,15 @@
                     <!-- page nathan -->
                     <h1 class="page_title"> Nathan</h1>
                     <div class="page_content">
-                        <p><img src="./docs/images/nathan-2020-300x300.png" class="left no_border" alt="Nathan Verrips" style="margin-top: 0px; margin-right: 0px" height="80px" width="80px"><strong>Nathan</strong> is twenty, and loves board games, reading and programming things.  Nathan is currently a student at <a href="https://www.cod.edu/about/stories/students/verrips.aspx">College of DuPage</a> pursuing an Associates Degree in Science which, by God's grace, is the first step on his path into a career of <a href="https://www.cod.edu/about/stories/students/verrips.aspx">optometry/ophthalmology</a>.<br>  He also keeps busy editing and updating a number of Christian websites linked below:<p>
+                        <p><img src="./docs/images/nathan-2020-300x300.png" class="left no_border" alt="Nathan Verrips" style="margin-top: 0px; margin-right: 0px" height="80px" width="80px"><strong>Nathan</strong> is twenty one, and loves <a href="https://www.thegrayhavensmusic.com" target="_blank">the Gray Havens Music</a>, Lord of The Rings lore, <a href="https://lotr.fandom.com/wiki/Grond" target="_blank">Grond</a> and playing board games.  Nathan is currently a student at <a href="https://www.cod.edu/about/stories/students/verrips.aspx">College of DuPage</a> and on his path into a career of <a href="https://www.cod.edu/about/stories/students/verrips.aspx">optometry/ophthalmology</a>.He also has a part time position working as an Opthalmic Technician at <a href="https://www.palmettoeyeandlaser.com/" target="_blank">Palmetto Eye & Laser Center</a>. Nathan further keeps busy editing and updating a number of Christian websites linked below:<p>
                             <div class="space"> </div>
                             <div class="clear"> </div>
                             <ul>
                                 <!-- <ul class="grid"> -->
+                                    <li><a href="https://www.reidvillepca.org">Reidville Presbyterian Church</a></li>
                                     <li><a href="https://www.thegoodportionbooks.com">The Good Portion Book Series</a></li>
                                     <li><a href="https://www.donkirkwood.com">DonKirkwood.com</a></li>
+
                                     <!--            <li class="twitter"><a href="http://www.twitter.com/nverrips"> <img src="./docs/images/links/twitter.png" alt="Twitter"></a></li>
                                         <li class="instagram"><a href="http://www.instagram.com/nverrips"> <img src="./docs/images/links/instagram.png" alt="Instagram"></a></li> -->
                                     </ul>
@@ -247,12 +249,12 @@
                                 <!-- page luke -->
                                 <h1 class="page_title"> Luke</h1>
                                 <div class="page_content">
-                                    <p><img src="./docs/images/luke-2021-300x300.png" class="left no_border" alt="Luke Verrips" style="margin-top: 0px; margin-right: 0px" height="80px" width="80px"><strong>Luke</strong> is sixteen years old and loves spending time with people, especially when they can talk through serious things like game theory and strategy (and sometimes just silly things too). Like his brother, Nathan, Luke loves strategy games, board games and role-playing games.  The two of them are in various clubs and online groups and leagues.</p><br>
-                                    <p>Luke has some interesting uploads on his YouTube channel (under the handle <em>SkilfulArcher</em>) linked below.</p>
+                                    <p><img src="./docs/images/luke-2021-300x300.png" class="left no_border" alt="Luke Verrips" style="margin-top: 0px; margin-right: 0px" height="80px" width="80px"><strong>Luke</strong> is sixteen years old and loves spending time with people, especially when they can talk through serious things like game theory and strategy (and sometimes just silly things too). Like his brother, Nathan, Luke loves strategy games, board games and role-playing games:  The two of them are in various clubs and online groups and leagues, and Luke is also actively developing a mythical world called <a href="https://drakomere.com">Drakomere</a>.</p><br>
+                                    <p>There are some interesting uploads on his YouTube channel (under the handle <em>SkilfulArcher</em>) linked below.</p>
                                     <div class="space"> </div>
                                     <div class="clear"> </div>
                                     <ul class="grid">
-                                        <li class="youtube"><a target="_blank" href="https://www.youtube.com/channel/UCmeD_IakA3tsDZhGXfu5D7Q"> <img src="./docs/images/links/youtube.png" alt="YouTube"></a></li>
+                                        <li class="youtube"><a target="_blank" href="https://www.youtube.com/@skilfularcher"> <img src="./docs/images/links/youtube.png" alt="YouTube"></a></li>
                                     </ul>
                                     <div class="clear"> </div>
                                 </div>
@@ -301,21 +303,6 @@
                                     <div class="footer">
                                         <p><a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br/>This Verrips Website is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/deed.en_US">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.</p>
                                     </div>
-                                    <!-- Fathom -->
-                                    <script>
-                                        (function(f, a, t, h, o, m){
-                                            a[h]=a[h]||function(){
-                                                (a[h].q=a[h].q||[]).push(arguments)
-                                            };
-                                            o=f.createElement('script'),
-                                            m=f.getElementsByTagName('script')[0];
-                                            o.async=1; o.src=t; o.id='fathom-script';
-                                            m.parentNode.insertBefore(o,m)
-                                        })(document, window, '//analytics.stcyrano.com/tracker.js', 'fathom');
-                                        fathom('set', 'siteId', 'AGGQQ');
-                                        fathom('trackPageview');
-                                    </script>
-                                    <!-- / Fathom -->
 
                                     <!-- Original Design by "http://esarfraz.com" Sarfraz Shoukat as published on "http://www.html5xcss3.com/2012/07/html5-template-onepager-responsive.html" -->
                                 </div>
