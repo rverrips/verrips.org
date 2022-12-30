@@ -175,3 +175,92 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/rverrips
 
 ==================================================================
+
+==================================================================
+https://keybase.io/rverrips
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rverrips.keybase.pub
+  * I am rverrips (https://keybase.io/rverrips) on keybase.
+  * I have a public key with fingerprint 7B76 CD86 F9FA 2171 BD08  8313 9F69 ABE2 6B59 3EDF
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012002e031949f81bc99a7c2430d39bd6a4b77a5bb7adfb4d6bab6503bd3ae340af40a",
+      "fingerprint": "7b76cd86f9fa2171bd0883139f69abe26b593edf",
+      "host": "keybase.io",
+      "key_id": "9f69abe26b593edf",
+      "kid": "01016fdfcab98c59119e48013663b8943a2cb361235bd83de4eafdb41ca5654b22200a",
+      "uid": "abab722da7c3aef9b8990834440d0f19",
+      "username": "rverrips"
+    },
+    "merkle_root": {
+      "ctime": 1672434054,
+      "hash_meta": "62a9e8fa429e341db4d08d7722a2b504d39a602ac322f0bf7d8cdb65e70794e3",
+      "seqno": 23789113
+    },
+    "revoke": {
+      "sig_ids": [
+        "dff2bbac53f616649747af73dfcfb60d708c185d4e8745feea2ea5f07422e4670f"
+      ]
+    },
+    "service": {
+      "hostname": "rverrips.keybase.pub",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1672434074,
+  "expire_in": 157680000,
+  "prev": "3579d04df451b332c9f33cce430e70a4af2c23c3a1775c2bf41607114b994cc3",
+  "seqno": 69,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMQFAnicbZN9TFZVHMcfTNQgZyvNd6s7XSmK955z7j33QEmF5Jgsp5smgj6dc+85
+cHl5nqf7PCC+UE2Nmjb+IJ0CKa7QpqQgiJZkKWjanKhNIvEFfEFnCrRURjqt87Dc
+mutud3fn7vv7/r6/zznnyNCnPFERFU7VlezUGe0RJxo/zPNY1XPLVijMby9T4lYo
+2bz/w3NsHgx5sx1biVNUDagq4CrUCCLC1JhFCMUWQFC1IWG2QRHDmOqMYWoLhmyD
+UWboKmQ2pBwilQr5KlMV4fgyuBtwHV9I2mKGDcs2DUEEBRrWmK2aJtQgEQahjAOD
+6QRyW8jCTH8wXCHDMRrksY5f/pMLb3+8/9E/zq1qhrCFRRkxLZ1oGuHIVDVoGJCZ
+BEEKLAYNDUCd2Sa0OeJU2AxpFtUNHTEA5Nzh3Hn9dlROhQGw5ehyLEGkBVFNiBBS
+bVVoJCwMctdHc7lUu/ncdZ1AUCmcquRyNzuHe12/PxSGa4WcsEQzsESIVB3JAWkw
+05vLQ1RWGoASbgqKAJHwNBlIgrGxbE0B01UkmVNDBdSCAAiVCWybli15c6xigjiU
+OYL8fZ9fiQMQm3JqKCO4PN+fzcPdg06G5BZU4tIUWwjAGLV0KAzNMBDBCFOBoUQm
+mKHaWDUtzdRtxE2MdME5BZzqQsUIAI4MrAplcWG4m5vvWP3m4Y16AkDs410L5DEZ
+LeD6Q37LnyMVmaFQIBgXBhRaFgiXLOXM+6+Zlzk+Wx4XWSF9go7fJ4FJ5RPssGTH
+CwKOy71OWKFjw1TlE+7D86Ul1DGxJTOBdI1BCCwiILQsLs+u5EURFcACUG6ohrFu
+ASaQZqhY0xAjBFnWf2AaROakGdJTEvTRUJ7LlcLGw+kDPRFRnkGRA8L3yBP19LOP
+b9eVUcMevfx7gmnfWx35c+X+N5J630s+9mDuzfINf73WOujHSzW5WUsSePeNrt7y
+yd/Wr9u7qOqdcZ+81PXWpeZrY5rXlnYeq9rcVF70W8KOvsjvT/d2zcqo62kcfj11
+XlRZjrh7OfbhxLRf2/jWnbfNSQvqUU/NFHXTKxviU4aWHGjtba3tri0/W5A1a0hb
+5IOOizGJhZNzzm1cU3a/rykpuXDL4IGvp9Yvbo+pmTHhbPHYgZ9eP/vw8/R9V6MO
+X/w7pqLp2IAHBzrrxhwKne7sHDC68lRp8eZQ9Zye6I5FJYsPX92z++3sF08vudO6
+5UjqyJZVScOWZz4zb+NH9zruds/AI6tnTgn8kjrl3NppN2jdhYkJzeMj0wpuJW4v
+QKUxo4o2/jD9YGVK1sSdt8cNr320692x6XrycSdrxM1tLfebnOqUsc2TKupS5i0d
+qqT05u85fqpr+xcZifMbSkd/lblwsqe+adDdfQfuvFpcBtt23I8/197wR1W6Z9Hs
+ppppK6+O3Bef/tzy4hVzhlW2RTsxC4uumZ/1PTpytGF82ra9qw59vVdUHJr7zQe1
+J/iZEhBVcvJ86RngXmqbGd/YffP8/OiSHanj1qdsPTPbfOHLhy0dlc4Jkttwe9O9
+yy0NwQVkZc6I6Atv0qOD9TWsyBq+fvrugycrSez0tMT8rNVW8iTf5ueHJI1Svvtp
+f8SuG9NK+nra19/6+M/zE7x5/wAFHBey
+=VlyY
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rverrips
+
+==================================================================
