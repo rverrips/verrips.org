@@ -56,4 +56,5 @@
 -   2014/08-2016/12 Sahari Village, Dubai, United Arab Emirates (Again)
 -   2016/12-2017/01 Chicago, IL
 -   2017/01-2022/06 Naperville, IL
--   2022/07-~ Greer, SC
+-   2022/07-2023/09 Greer, SC
+-   2023/09-~ [Reidville, SC](https://www.townofreidvillesc.com/)
