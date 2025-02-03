@@ -490,7 +490,7 @@
                     <br>
                     <p>Yours in Him</p>
                     <p>The Verrips Family</p>
-                    <p><small>(Updated December 2022)</small></p>
+                    <p><small>(Updated December 2024)</small></p>
                     <div class="clear"> </div>
                 </div>
             </div>
@@ -557,7 +557,7 @@
                 <div class="page_content">
                     <p><img src="./docs/images/nathan-2020-300x300.png" class="left no_border" alt="Nathan Verrips"
                             style="margin-top: 0px; margin-right: 0px" height="80px"
-                            width="80px"><strong>Nathan</strong> is twenty two, and loves <a
+                            width="80px"><strong>Nathan</strong> is twenty three, and loves <a
                             href="https://www.thegrayhavensmusic.com" target="_blank">the Gray Havens Music</a>, Lord
                         of The Rings lore, <a href="https://lotr.fandom.com/wiki/Grond" target="_blank">Grond</a> and
                         playing board games. Nathan graduated from <a
@@ -565,7 +565,7 @@
                         2023 as a Certified Opthalmic Technicial
                         on his path into a career of <a
                             href="https://www.cod.edu/about/stories/students/verrips.aspx">optometry/ophthalmology</a>.He
-                        current works as an Opthalmic Technician at <a href="https://www.palmettoeyeandlaser.com/"
+                        current works as a Certified Opthalmic Technician at <a href="https://www.palmettoeyeandlaser.com/"
                             target="_blank">Palmetto Eye & Laser
                             Center</a>. Nathan further keeps busy editing and updating a number of Christian websites
                         linked below:
@@ -602,7 +602,7 @@
                 <div class="page_content">
                     <p><img src="./docs/images/luke-2021-300x300.png" class="left no_border" alt="Luke Verrips"
                             style="margin-top: 0px; margin-right: 0px" height="80px"
-                            width="80px"><strong>Luke</strong> is seventeen years old and loves spending time with
+                            width="80px"><strong>Luke</strong> is eighteen years old and loves spending time with
                         people, especially when they can talk through serious things like game theory and strategy (and
                         sometimes just silly things too). Like his brother, Nathan, Luke loves strategy games, board
                         games and role-playing games: The two of them are in various clubs and online groups and
@@ -632,7 +632,7 @@
                 <!-- The Gospel, What We Believe, Two Ways To Live -->
                 <h1 class="page_title"> What we Believe</h1>
                 <div class="page_content">
-                    <p>We are a Christian (Evangelical/Reformed/Protestant) family who believe the
+                    <p>We are a Christian (Protestant/Evangelical/Reformed) family who believe the
                         <strong>Bible</strong> to be God's true word. The below 7-minute video is a brief summary and
                         explaination of "What a Christian is" and "What it is Christians Believe".<br>
                     </p>
