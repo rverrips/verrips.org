@@ -32,12 +32,9 @@
 - 2012/07/03-2012/12/31 Wordpress version 3.4
 - 2012/12/31-2013/04/30 Wordpress version 3.5
 - 2013/01/01-2013/04/30 Single Page Obituary
-- 2013/04/30-~ HTML5/CSS Single Page Site with Family Pic's and links to Social
+- 2013/04/30-2020/10/05 HTML5/CSS Single Page Site with Family Pic's and links to Social
 - 2013/06/30-~ Code hosted in [GitHub](https://github.com/rverrips/verrips.org)
-- 2013/06/30 [release 2013](https://github.com/rverrips/verrips.org/tree/2013)
-- 2017/08/30 [release 2017.08](https://github.com/rverrips/verrips.org/tree/2017.08)
-- 2018/10/06-~ Manage releases in [Github Projects](https://github.com/rverrips/verrips.org/projects/)
-- 2018/10/06 [release 2018.10](https://github.com/rverrips/verrips.org/tree/2018.10)
+- 2020/10/05-~ Single page site inside [Laravel](https://laravel.com) framework [version 8](https://laravel.com/docs/8.x)
 
 ## 2001 Where in the world
 
