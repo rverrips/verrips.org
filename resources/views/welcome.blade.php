@@ -12,20 +12,20 @@
     <!-- Google / Search Engine Tags -->
     <meta itemprop="name" content="Verrips Family - Roy, Angela, Nathan, Rachel and Luke Verrips">
     <meta itemprop="description" content="Updates and details about Roy, Angela, Nathan, Rachel and Luke Verrips.">
-    <meta itemprop="image" content="https://verrips.org/images/verrips-2014.png">
+    <meta itemprop="image" content="https://verrips.org/docs/images/verrips-2023.png">
 
     <!-- Facebook Meta Tags -->
     <meta property="og:url" content="https://verrips.org">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Verrips Family - Roy, Angela, Nathan, Rachel and Luke Verrips">
     <meta property="og:description" content="Updates and details about Roy, Angela, Nathan, Rachel and Luke Verrips.">
-    <meta property="og:image" content="https://verrips.org/images/verrips-2014.png">
+    <meta property="og:image" content="https://verrips.org/docs/images/verrips-2023.png">
 
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Verrips Family - Roy, Angela, Nathan, Rachel and Luke Verrips">
     <meta name="twitter:description" content="Updates and details about Roy, Angela, Nathan, Rachel and Luke Verrips.">
-    <meta name="twitter:image" content="https://verrips.org/images/verrips-2014.png">
+    <meta name="twitter:image" content="https://verrips.org/docs/images/verrips-2023.png">
 
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="robots" content="Verrips Family">
@@ -417,13 +417,9 @@
                     <div class="gf-slider">
                         <!-- slider -->
                         <ul class="slides">
-                            <li> <img src="./docs/images/verrips-2020.png"
-                                    alt="Luke, Roy, Nathan and Angela Verrips - Naperville, IL 2020" />
-                                <p class="flex-caption"> Luke, Roy, Nathan and Angela Verrips - Naperville, IL 2020</p>
-                            </li>
-                            <li> <img src="./docs/images/verrips-2021.png"
-                                    alt="Nathan, Angela, Roy and Luke Verrips - Naperville, IL 2021" />
-                                <p class="flex-caption"> Nathan, Angela, Roy and Luke Verrips - Naperville, IL 2021</p>
+                            <li> <img src="./docs/images/verrips-2023.png"
+                                    alt="Don and Jenny Kirkwood, Luke, Angela, Roy, Nathan and Henri Verrips - Reidville, SC 2023" />
+                                <p class="flex-caption"> Don and Jenny Kirkwood, Luke, Angela, Roy, Nathan and Henri Verrips - Reidville, SC 2023</p>
                             </li>
                             <li> <img src="./docs/images/verrips-2004.png"
                                     alt="Rachel, Angela, Roy and Nathan Verrips - Dubai 2004" />
@@ -459,6 +455,14 @@
                             <li> <img src="./docs/images/verrips-2018b.png"
                                     alt="Luke, Angela, Roy and Nathan Verrips - Naperville, IL 2018" />
                                 <p class="flex-caption"> Luke, Angela, Roy and Nathan Verrips - Naperville, IL 2018</p>
+                            </li>
+                            <li> <img src="./docs/images/verrips-2020.png"
+                                    alt="Luke, Roy, Nathan and Angela Verrips - Naperville, IL 2020" />
+                                <p class="flex-caption"> Luke, Roy, Nathan and Angela Verrips - Naperville, IL 2020</p>
+                            </li>
+                            <li> <img src="./docs/images/verrips-2021.png"
+                                    alt="Nathan, Angela, Roy and Luke Verrips - Naperville, IL 2021" />
+                                <p class="flex-caption"> Nathan, Angela, Roy and Luke Verrips - Naperville, IL 2021</p>
                             </li>
                         </ul>
                     </div>
@@ -574,7 +578,6 @@
                     <div class="clear"> </div>
                     <ul>
                         <!-- <ul class="grid"> -->
-                        <li><a href="https://www.reidvillepca.org">Reidville Presbyterian Church</a></li>
                         <li><a href="https://www.thegoodportionbooks.com">The Good Portion Book Series</a></li>
                         <li><a href="https://www.donkirkwood.com">DonKirkwood.com</a></li>
 
@@ -614,7 +617,10 @@
                     <div class="space"> </div>
                     <div class="clear"> </div>
                     <ul class="grid">
-                        <li class="youtube"><a target="_blank" href="https://www.youtube.com/@skilfularcher"> <img
+
+                        <li class="instagram"><a href="http://www.instagram.com/skilfularcher"> <img src="./docs/images/links/instagram.png" alt="Instagram"></a></li>
+                        <li class="instagram"><a href="http://www.instagram.com/skilsings"> <img src="./docs/images/links/instagram.png" alt="Instagram"></a></li>
+                         <li class="youtube"><a target="_blank" href="https://www.youtube.com/@skilfularcher"> <img
                                     src="./docs/images/links/youtube.png" alt="YouTube"></a></li>
                     </ul>
                     <div class="clear"> </div>
