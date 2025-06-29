@@ -34,7 +34,8 @@
 - 2013/01/01-2013/04/30 Single Page Obituary
 - 2013/04/30-2020/10/05 HTML5/CSS Single Page Site with Family Pic's and links to Social
 - 2013/06/30-~ Code hosted in [GitHub](https://github.com/rverrips/verrips.org)
-- 2020/10/05-~ Single page site inside [Laravel](https://laravel.com) framework [version 8](https://laravel.com/docs/8.x)
+- 2020/10/05-2025/06/28 Single page site inside [Laravel](https://laravel.com) framework [version 8](https://laravel.com/docs/8.x)
+- 2025/06/28-~ [Laravel](https://laravel.com) [version 12](https://laravel.com/docs/12.x)
 
 ## 2001 Where in the world
 
