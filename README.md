@@ -1,73 +1,61 @@
-Website verrips.org
-===================
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-Introduction
-------------
-Updates and details about Roy, Angela, Nathan, Rachel and Luke Verrips
+<p align="center">
+<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
+## About Laravel
 
-Current Release
----------------
-Basic One Page HTML File
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-Original Template from [Sarfraz Shoukat](http://esarfraz.com) as published on [Free Responsive Css3 and Html5 Templates](http://www.html5xcss3.com/2012/07/html5-template-onepager-responsive.html)
+- [Simple, fast routing engine](https://laravel.com/docs/routing).
+- [Powerful dependency injection container](https://laravel.com/docs/container).
+- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
+- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
+- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
+- [Robust background job processing](https://laravel.com/docs/queues).
+- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
 
-History of verrips.org
-======================
+Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-2001 <b>Domain Name(s)</b>
+## Learning Laravel
 
--   2002/02/12 Launched as verrips.co.za
--   2002/02/12-2004/05/10 verrips.co.za
--   2004/05/10-~ [verrips.org](https://verrips.org)
--   2012/06/01-2014/06/01 verrips.me
+Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
-* * *
+You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
-2001 <b>Architecture / Framework</b>
+If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
--   2002/02/12-2004/03/01 Powered by [Postnuke](http://postnuke.com)
--   2002/02/12-2004/03/01 Postnuke version 1.5
--   2004/03/01-2004/05 Powered by [Movable Type](https://www.movabletype.org)
--   2004/03/01-2004/05 Movable Type version 2.661
--   2004/05/30-2012/12/31 Powered by [Wordpress](http://wordpress.org)
--   2004/05/30-2005/02/27 Wordpress version 1.2
--   2005/02/27-2006/01/01 Wordpress version 1.5
--   2006/01/01-2007/02/12 Wordpress version 2.0
--   2007/02/12-2007/06/10 Wordpress version 2.1
--   2007/06/10-2007/10/03 Wordpress version 2.2
--   2007/10/03-2008/04/02 Wordpress version 2.3
--   2008/04/02-2008/06/03 Wordpress version 2.5
--   2008/06/03-2008/12/27 Wordpress version 2.6
--   2008/12/27-2009/06/19 Wordpress version 2.7
--   2009/06/19-2009/12/28 Wordpress version 2.8
--   2009/12/28-2010/06/29 Wordpress version 2.9
--   2010/06/29-2011/03/12 Wordpress version 3.0
--   2011/03/12-2011/06/05 Wordpress version 3.1
--   2011/06/05-2011/12/28 Wordpress version 3.2
--   2011/12/28-2012/07/03 Wordpress version 3.3
--   2012/07/03-2012/12/31 Wordpress version 3.4
--   2012/12/31-2013/04/30 Wordpress version 3.5
--   2013/01/01-2013/04/30 Single Page Obituary
--   2013/04/30-~ HTML5/CSS Single Page Site with Family Pic's and links to Social
--   2013/06/30-~ Code hosted in [GitHub](https://github.com/rverrips/verrips.org)
--   2013/06/30 [release 2013](https://github.com/rverrips/verrips.org/tree/2013)
--   2017/08/30 [release 2017.08](https://github.com/rverrips/verrips.org/tree/2017.08)
--   2018/10/06-~ Manage releases in [Github Projects](https://github.com/rverrips/verrips.org/projects/)
--   2018/10/06 [release 2018.10](https://github.com/rverrips/verrips.org/tree/2018.10)
+## Laravel Sponsors
 
-* * *
+We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
 
-2001 <b>Where in the world</b>
+### Premium Partners
 
--   2001/02-2002/04 Harare, Zimbabwe
--   2002/05-2002/07 Cape Town, South Africa
--   2002/07-2008/08 Sahari Village, Dubai, United Arab Emirates
--   2008/08-2011/07 Discovery Gardens, Dubai, United Arab Emirates
--   2011/07-2012/11 Abu Dhabi, United Arab Emirates
--   2012/11-2014/08 Doha, Qatar
--   2014/08-2016/12 Sahari Village, Dubai, United Arab Emirates (Again)
--   2016/12-2017/01 Chicago, IL
--   2017/01-2022/06 Naperville, IL
--   2022/07-2023/09 Greer, SC
--   2023/09-~ [Reidville, SC](https://www.townofreidvillesc.com/)
+- **[Vehikl](https://vehikl.com)**
+- **[Tighten Co.](https://tighten.co)**
+- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
+- **[64 Robots](https://64robots.com)**
+- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
+- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
+- **[Redberry](https://redberry.international/laravel-development)**
+- **[Active Logic](https://activelogic.com)**
+
+## Contributing
+
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+
+## Code of Conduct
+
+In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+
+## Security Vulnerabilities
+
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+
+## License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
