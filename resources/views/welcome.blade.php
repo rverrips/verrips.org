@@ -417,6 +417,10 @@
                     <div class="gf-slider">
                         <!-- slider -->
                         <ul class="slides">
+                            <li> <img src="./docs/images/verrips-2022.png"
+                                    alt="Nathan, Don and Jenny Kirkwood, Angela, Roy and Luke Verrips - Reidville, SC 2022" />
+                                <p class="flex-caption"> Nathan, Don and Jenny Kirkwood, Angela, Roy and Luke Verrips - Reidville, SC 2022</p>
+                            </li>
                             <li> <img src="./docs/images/verrips-2023.png"
                                     alt="Don and Jenny Kirkwood, Luke, Angela, Roy, Nathan and Henri Verrips - Reidville, SC 2023" />
                                 <p class="flex-caption"> Don and Jenny Kirkwood, Luke, Angela, Roy, Nathan and Henri Verrips - Reidville, SC 2023</p>
