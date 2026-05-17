@@ -1,0 +1,3 @@
+@blaze
+
+{!! app('flux')->editorScripts() !!}

@@ -1,0 +1,56 @@
+@blaze(fold: true, unsafe: [
+    // variant props
+    'kbd', 'icon', 'iconVariant',
+    'icon:variant',
+])
+
+@aware(['variant' => null])
+
+@props([
+    'items' => null,
+    'variant' => null,
+])
+
+@php
+$classes = Flux::classes()
+    ->add('block overflow-x-auto w-full')
+    ->add(match($variant) {
+        'borderless' => 'rounded-lg bg-zinc-100 dark:bg-white/10 *:p-1.5 *:h-auto',
+        default => [
+            'bg-zinc-50 dark:bg-white/[6%] dark:border-white/5',
+            'rounded-t-[calc(0.5rem-1px)]',
+            'border-b border-zinc-200 dark:border-white/10',
+        ]
+    })
+;
+@endphp
+
+<ui-toolbar {{ $attributes->class($classes) }} wire:ignore aria-label="{{ __('Formatting') }}">
+    <div class="h-10 p-2 flex gap-2 items-center">
+        <?php if ($slot->isNotEmpty()): ?>
+            {{ $slot }}
+        <?php else: ?>
+            <?php if ($items !== null): ?>
+                <?php foreach (str($items)->explode(' ') as $item): ?>
+                    <?php if ($item === '|') $item = 'separator'; ?>
+                    <?php if ($item === '~') $item = 'spacer'; ?>
+                    <flux:delegate-component :component="'editor.' . $item"></flux:delegate-component>
+                <?php endforeach; ?>
+            <?php else: ?>
+                <flux:editor.heading />
+                <flux:editor.separator />
+                <flux:editor.bold />
+                <flux:editor.italic />
+                <flux:editor.strike />
+                <flux:editor.separator />
+                <flux:editor.bullet />
+                <flux:editor.ordered />
+                <flux:editor.blockquote />
+                <flux:editor.separator />
+                <flux:editor.link />
+                <flux:editor.separator />
+                <flux:editor.align />
+            <?php endif; ?>
+        <?php endif; ?>
+    </div>
+</ui-toolbar>
