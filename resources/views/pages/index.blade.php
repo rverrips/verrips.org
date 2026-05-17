@@ -26,10 +26,17 @@ $members = $family['members'];
     <section id="gallery" class="max-w-6xl mx-auto px-6 pb-16">
         <div class="mosaic rounded-3xl overflow-hidden shadow-lg">
             @foreach ($photos as $photo)
-                <div class="{{ $photo['span'] ? 'mosaic-' . $photo['span'] : '' }}">
+                <div class="{{ $photo['span'] ? 'mosaic-' . $photo['span'] : '' }} relative group overflow-hidden">
                     <img src="{{ asset($photo['src']) }}"
                          alt="{{ $photo['alt'] }}"
-                         class="w-full h-full object-cover">
+                         class="w-full h-full object-cover {{ $photo['focus'] ?? 'object-center' }} transition-transform duration-500 group-hover:scale-105">
+                    <div class="absolute inset-x-0 bottom-0 translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-out"
+                         style="background: linear-gradient(to top, rgba(0,0,0,0.75) 0%, rgba(0,0,0,0.3) 60%, transparent 100%);">
+                        <div class="px-4 pb-4 pt-8">
+                            <p class="text-white text-sm font-medium leading-snug">{{ $photo['people'] }}</p>
+                            <p class="text-white/70 text-xs mt-0.5">{{ $photo['location'] }} · {{ $photo['year'] }}</p>
+                        </div>
+                    </div>
                 </div>
             @endforeach
         </div>

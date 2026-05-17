@@ -7,7 +7,7 @@
     style="background: {{ $isMemorial ? '#fdfaf5' : '#fff' }}; border: 1px {{ $isMemorial ? 'dashed' : 'solid' }} #e8dfc9;"
 >
     <!-- Photo -->
-    <div class="h-56 overflow-hidden {{ $isMemorial ? 'flex items-center justify-center' : '' }}"
+    <div class="aspect-square overflow-hidden {{ $isMemorial ? 'flex items-center justify-center' : '' }}"
          style="{{ $isMemorial ? 'background:#f5f0e8;' : '' }}">
         @if ($isMemorial)
             <div class="text-center">
@@ -22,7 +22,7 @@
         @else
             <img src="{{ asset($member['photo']) }}"
                  alt="{{ $member['name'] }}"
-                 class="w-full h-full object-cover object-top transition-transform duration-500 hover:scale-105">
+                 class="w-full h-full object-cover {{ $member['focus'] ?? 'object-center' }} transition-transform duration-500 hover:scale-105">
         @endif
     </div>
 
