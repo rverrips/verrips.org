@@ -13,7 +13,7 @@ $members = $family['members'];
     <header id="home" class="max-w-6xl mx-auto px-6 pt-14 pb-10 text-center">
         <div class="inline-flex items-center gap-2 mb-5 px-4 py-1.5 rounded-full text-xs font-medium tracking-widest uppercase"
              style="background: #eef4e8; color: #4a6741;">
-            ✦ Est. 1996 · South Africa → Middle East → USA
+            ✦ Est. 2001 · South Africa → Middle East → USA
         </div>
         <h1 class="font-serif mb-4" style="font-size: 3.5rem; line-height: 1.15; color: #2d2a24;">
             The Verrips<br>
@@ -23,10 +23,17 @@ $members = $family['members'];
     </header>
 
     <!-- Photo mosaic -->
-    <section id="gallery" class="max-w-6xl mx-auto px-6 pb-16">
+    <section id="gallery" class="max-w-6xl mx-auto px-6 pb-16"
+             x-data="{ open: false, photo: {},
+                        show(p) { this.photo = p; this.open = true; document.body.style.overflow = 'hidden'; },
+                        close() { this.open = false; document.body.style.overflow = ''; } }"
+             @keydown.escape.window="close()">
+
         <div class="mosaic rounded-3xl overflow-hidden shadow-lg">
             @foreach ($photos as $photo)
-                <div class="{{ $photo['span'] ? 'mosaic-' . $photo['span'] : '' }} relative group overflow-hidden">
+                <div class="{{ $photo['span'] ? 'mosaic-' . $photo['span'] : '' }} relative group overflow-hidden cursor-pointer"
+                     data-photo="{!! e(json_encode(['src' => asset($photo['src']), 'alt' => $photo['alt'], 'people' => $photo['people'], 'location' => $photo['location'], 'year' => $photo['year']])) !!}"
+                     @click="show(JSON.parse($el.dataset.photo))">
                     <img src="{{ asset($photo['src']) }}"
                          alt="{{ $photo['alt'] }}"
                          class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
@@ -41,9 +48,48 @@ $members = $family['members'];
                 </div>
             @endforeach
         </div>
+
         <p class="text-center mt-4 text-sm italic" style="color: #b0a090;">
             Years of memories, from Dubai to South Carolina
         </p>
+
+        <!-- Lightbox -->
+        <div x-show="open"
+             x-transition:enter="transition ease-out duration-200"
+             x-transition:enter-start="opacity-0"
+             x-transition:enter-end="opacity-100"
+             x-transition:leave="transition ease-in duration-150"
+             x-transition:leave-start="opacity-100"
+             x-transition:leave-end="opacity-0"
+             class="fixed inset-0 z-50 flex items-center justify-center p-4 sm:p-8"
+             style="background: rgba(0,0,0,0.88);"
+             @click.self="close()"
+             x-cloak>
+
+            <div class="relative w-full max-w-5xl"
+                 x-transition:enter="transition ease-out duration-200"
+                 x-transition:enter-start="opacity-0 scale-95"
+                 x-transition:enter-end="opacity-100 scale-100">
+
+                <img :src="photo.src" :alt="photo.alt"
+                     class="w-full rounded-2xl shadow-2xl"
+                     style="max-height: 80vh; object-fit: contain;">
+
+                <div class="mt-4 text-center">
+                    <p class="text-white font-medium text-lg" x-text="photo.people"></p>
+                    <p class="text-white/60 text-sm mt-1" x-text="photo.location + ' · ' + photo.year"></p>
+                </div>
+
+                <button @click="close()"
+                        class="absolute -top-3 -right-3 w-9 h-9 rounded-full flex items-center justify-center text-white transition-opacity hover:opacity-80"
+                        style="background: rgba(255,255,255,0.55);">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+
     </section>
 
     <!-- About -->
@@ -90,7 +136,7 @@ $members = $family['members'];
     <!-- Family cards -->
     <section id="family" class="max-w-6xl mx-auto px-6 py-20">
         <h2 class="font-serif text-center mb-2" style="font-size: 2.5rem; color: #2d2a24;">Our Family</h2>
-        <p class="text-center mb-12 text-sm tracking-widest uppercase" style="color: #6a7c59;">Each one a gift</p>
+        {{-- <p class="text-center mb-12 text-sm tracking-widest uppercase" style="color: #6a7c59;">Each one a gift</p> --}}
 
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             @foreach ($members as $member)
