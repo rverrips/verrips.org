@@ -13,7 +13,7 @@
             <div class="text-center">
                 <img src="{{ asset($member['photo']) }}"
                      alt="{{ $member['name'] }}"
-                     class="h-48 w-48 rounded-full object-cover mx-auto border-4"
+                     class="h-[250px] w-[250px] rounded-full object-cover mx-auto border-4"
                      style="border-color: #d4c9b0; object-position: {{ $member['focus'] ?? 'center' }};">
                 <p class="mt-2 font-serif italic text-sm" style="color:#b0a090;">
                     {{ $member['memorial_year'] ?? '' }}
