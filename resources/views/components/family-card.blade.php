@@ -13,8 +13,8 @@
             <div class="text-center">
                 <img src="{{ asset($member['photo']) }}"
                      alt="{{ $member['name'] }}"
-                     class="h-32 w-32 rounded-full object-cover mx-auto border-4"
-                     style="border-color: #d4c9b0;">
+                     class="h-48 w-48 rounded-full object-cover mx-auto border-4"
+                     style="border-color: #d4c9b0; object-position: {{ $member['focus'] ?? 'center' }};">
                 <p class="mt-2 font-serif italic text-sm" style="color:#b0a090;">
                     {{ $member['memorial_year'] ?? '' }}
                 </p>
@@ -22,7 +22,8 @@
         @else
             <img src="{{ asset($member['photo']) }}"
                  alt="{{ $member['name'] }}"
-                 class="w-full h-full object-cover {{ $member['focus'] ?? 'object-center' }} transition-transform duration-500 hover:scale-105">
+                 class="w-full h-full object-cover transition-transform duration-500 hover:scale-105"
+                 style="object-position: {{ $member['focus'] ?? 'center' }};">
         @endif
     </div>
 
