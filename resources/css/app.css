@@ -42,6 +42,7 @@ h1, h2, h3, h4 {
 .mosaic {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 190px 190px 250px 250px 250px;
     grid-auto-rows: 250px;
     gap: 6px;
 }
