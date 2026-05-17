@@ -124,12 +124,12 @@ $members = $family['members'];
                 </cite>
             </blockquote>
 
-            <p class="text-sm text-center" style="color: #9a8c78;">
+            {{-- <p class="text-sm text-center" style="color: #9a8c78;">
                 Roy and Angela are members of
                 <a href="https://reidvillepca.org" target="_blank" class="underline" style="color: #4a3f33;">
                     <strong>Reidville Presbyterian Church in America</strong>
                 </a>
-            </p>
+            </p> --}}
         </div>
     </section>
 

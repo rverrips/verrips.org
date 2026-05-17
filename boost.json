@@ -1,0 +1,21 @@
+{
+    "agents": [
+        "claude_code",
+        "copilot",
+        "opencode"
+    ],
+    "cloud": false,
+    "guidelines": true,
+    "mcp": true,
+    "nightwatch": false,
+    "sail": false,
+    "skills": [
+        "folio-routing",
+        "laravel-best-practices",
+        "configure-nightwatch",
+        "fluxui-development",
+        "livewire-development",
+        "pest-testing",
+        "tailwindcss-development"
+    ]
+}

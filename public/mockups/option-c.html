@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Option C — Hearthside</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+  <style>
+    body { font-family: 'DM Sans', sans-serif; background:#fffcf8; color:#1c1917; }
+    h1, h2, h3, h4, blockquote { font-family: 'Cormorant Garamond', serif; }
+    .mosaic { display: grid; grid-template-columns: repeat(4, 1fr); grid-auto-rows: 200px; gap: 4px; }
+    .mosaic .wide { grid-column: span 2; }
+    .mosaic .tall { grid-row: span 2; }
+    .mosaic .big  { grid-column: span 2; grid-row: span 2; }
+    .card:hover .card-img { transform: scale(1.04); }
+    .card-img { transition: transform 0.5s ease; }
+  </style>
+</head>
+<body class="antialiased">
+
+  <!-- Nav -->
+  <nav class="sticky top-0 z-50" style="background:rgba(255,252,248,0.97); border-bottom:1px solid #f0e6d6; backdrop-filter:blur(10px);">
+    <div class="max-w-6xl mx-auto px-8 py-0 flex items-stretch justify-between">
+      <a href="#" class="flex items-center gap-4 py-5">
+        <div class="w-8 h-8 rounded-full flex items-center justify-center text-white text-xs font-bold" style="background:#c2602a;">V</div>
+        <span style="font-family:'Cormorant Garamond',serif; font-size:1.3rem; letter-spacing:0.02em; color:#1c1917;">Verrips Family</span>
+      </a>
+      <ul class="hidden md:flex gap-8 items-center text-sm font-medium" style="color:#78716c;">
+        <li><a href="#gallery"  style="transition:color .2s;" onmouseover="this.style.color='#c2602a'" onmouseout="this.style.color='#78716c'">Gallery</a></li>
+        <li><a href="#about"   style="transition:color .2s;" onmouseover="this.style.color='#c2602a'" onmouseout="this.style.color='#78716c'">About</a></li>
+        <li><a href="#family"  style="transition:color .2s;" onmouseover="this.style.color='#c2602a'" onmouseout="this.style.color='#78716c'">Family</a></li>
+        <li><a href="#believe" class="px-4 py-2 rounded-full text-white text-sm" style="background:#c2602a;">What We Believe</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <header class="max-w-6xl mx-auto px-8 pt-16 pb-10">
+    <div class="grid md:grid-cols-2 gap-10 items-end">
+      <div>
+        <p class="text-xs font-medium tracking-[0.3em] uppercase mb-4" style="color:#c2602a;">Reidville, South Carolina · 2022 – Present</p>
+        <h1 style="font-size:4.5rem; line-height:1.0; color:#1c1917; font-weight:300; letter-spacing:-0.01em;" class="mb-6">
+          The<br>
+          <em>Verrips</em><br>
+          Family
+        </h1>
+        <p style="color:#78716c; font-size:1.05rem; line-height:1.7; max-width:38ch;">
+          Roy, Angela, Nathan, Luke and Don — a Christian family from South Africa,
+          now rooted in the Upstate of South Carolina.
+        </p>
+      </div>
+      <div class="rounded-2xl overflow-hidden shadow-xl" style="height:320px;">
+        <img src="../docs/images/verrips-2025.png" class="w-full h-full object-cover" alt="Verrips Family 2025">
+      </div>
+    </div>
+  </header>
+
+  <!-- Photo mosaic -->
+  <section id="gallery" class="max-w-6xl mx-auto px-8 pb-20">
+    <div class="flex items-center gap-4 mb-6">
+      <h2 style="font-family:'Cormorant Garamond',serif; font-size:1.5rem; color:#1c1917;">Through the Years</h2>
+      <div class="flex-1 h-px" style="background:#f0e6d6;"></div>
+      <span style="font-size:0.75rem; color:#a8a29e; letter-spacing:0.1em;">2004 – 2025</span>
+    </div>
+    <div class="mosaic rounded-2xl overflow-hidden">
+      <div class="big"><img src="../docs/images/verrips-2023.png" class="w-full h-full object-cover" alt="2023"></div>
+      <div class=""><img src="../docs/images/verrips-2022.png" class="w-full h-full object-cover" alt="2022"></div>
+      <div class=""><img src="../docs/images/verrips-2021.png" class="w-full h-full object-cover" alt="2021"></div>
+      <div class="wide"><img src="../docs/images/verrips-2020.png" class="w-full h-full object-cover" alt="2020"></div>
+      <div class=""><img src="../docs/images/verrips-2018b.png" class="w-full h-full object-cover" alt="2018"></div>
+      <div class=""><img src="../docs/images/verrips-2014.png" class="w-full h-full object-cover" alt="2014"></div>
+      <div class="wide"><img src="../docs/images/verrips-2012.png" class="w-full h-full object-cover" alt="2012"></div>
+      <div class=""><img src="../docs/images/verrips-2010.png" class="w-full h-full object-cover" alt="2010"></div>
+      <div class=""><img src="../docs/images/verrips-2009.png" class="w-full h-full object-cover" alt="2009"></div>
+    </div>
+  </section>
+
+  <!-- About -->
+  <section id="about" class="py-24" style="background:#1c1917; color:#f5f0eb;">
+    <div class="max-w-6xl mx-auto px-8 grid md:grid-cols-2 gap-16 items-center">
+      <div>
+        <p class="text-xs tracking-[0.3em] uppercase mb-4" style="color:#c2602a;">Our Story</p>
+        <h2 style="font-size:3rem; font-weight:300; line-height:1.15; color:#f5f0eb;" class="mb-8">About<br><em>Our Family</em></h2>
+        <div class="h-px mb-8" style="background:#3d3630;"></div>
+        <p class="leading-relaxed mb-5" style="color:#c4b8ae; font-size:1.05rem;">
+          We are <strong style="color:#f5f0eb;">Roy, Angela, Nathan</strong> and <strong style="color:#f5f0eb;">Luke Verrips</strong>,
+          a <a href="#believe" style="color:#c2602a; text-decoration:underline;">Christian</a> family living in
+          Reidville, South Carolina since the summer of 2022 — when Angela's father,
+          <strong style="color:#f5f0eb;">Don Kirkwood</strong>, also came to live with us.
+        </p>
+        <p class="leading-relaxed mb-5" style="color:#c4b8ae; font-size:1.05rem;">
+          Originally from South Africa, we spent about 15 years living in the Middle East before
+          immigrating to the US in 2016.
+        </p>
+        <p class="leading-relaxed" style="color:#c4b8ae; font-size:1.05rem;">
+          We pray and trust that God will continue to strengthen us in His mercy and grace, and that
+          we may be a blessing to those He brings across our path.
+        </p>
+      </div>
+      <div>
+        <blockquote class="pl-6 py-4 mb-8" style="border-left:2px solid #c2602a;">
+          <p style="font-size:2rem; font-weight:300; font-style:italic; color:#f5f0eb; line-height:1.3;">"Our Saviour is Gentle and Lowly in heart."</p>
+          <cite class="block mt-3 text-sm not-italic" style="color:#c2602a;">— Matthew 11:29</cite>
+        </blockquote>
+        <div class="rounded-xl p-6" style="background:#2c2622;">
+          <p class="text-sm mb-1" style="color:#a8a29e;">Members of</p>
+          <p class="font-medium" style="color:#f5f0eb;">Reidville Presbyterian Church in America</p>
+          <div class="mt-3 h-px" style="background:#3d3630;"></div>
+          <p class="mt-3 text-sm" style="color:#a8a29e;">Roy &amp; Angela · Reidville PCA</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Family cards -->
+  <section id="family" class="max-w-6xl mx-auto px-8 py-24">
+    <div class="flex items-center gap-4 mb-12">
+      <h2 style="font-family:'Cormorant Garamond',serif; font-size:2.5rem; font-weight:300; color:#1c1917; white-space:nowrap;">Our Family</h2>
+      <div class="flex-1 h-px" style="background:#f0e6d6;"></div>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+
+      <!-- Roy -->
+      <article class="card rounded-xl overflow-hidden group" style="background:#fff; border:1px solid #f0e6d6;">
+        <div class="h-64 overflow-hidden">
+          <img src="../docs/images/Roy-2021-Smile-300x300.png" class="card-img w-full h-full object-cover object-top" alt="Roy">
+        </div>
+        <div class="p-6 border-t" style="border-color:#f0e6d6;">
+          <div class="flex items-center gap-2 mb-1">
+            <h3 style="font-size:1.5rem; font-weight:400; color:#1c1917;">Roy</h3>
+            <span class="ml-auto text-xs" style="color:#c2602a;">IT Director</span>
+          </div>
+          <p class="text-sm leading-relaxed mb-5" style="color:#78716c;">
+            Director of IT at Auro Hotels, Greenville. Loves reading, and builds in PHP, JavaScript and Laravel.
+          </p>
+          <div class="flex gap-2 flex-wrap">
+            <a href="https://www.linkedin.com/in/rverrips" class="text-xs px-3 py-1.5 rounded-lg" style="background:#fdf8f3; color:#78716c; border:1px solid #e8ddd0;">LinkedIn</a>
+            <a href="https://www.instagram.com/rverrips" class="text-xs px-3 py-1.5 rounded-lg" style="background:#fdf8f3; color:#78716c; border:1px solid #e8ddd0;">Instagram</a>
+            <a href="https://keybase.io/rverrips" class="text-xs px-3 py-1.5 rounded-lg" style="background:#fdf8f3; color:#78716c; border:1px solid #e8ddd0;">Keybase</a>
+          </div>
+        </div>
+      </article>
+
+      <!-- Angela -->
+      <article class="card rounded-xl overflow-hidden" style="background:#fff; border:1px solid #f0e6d6;">
+        <div class="h-64 overflow-hidden">
+          <img src="../docs/images/angela-300x300.png" class="card-img w-full h-full object-cover object-top" alt="Angela">
+        </div>
+        <div class="p-6 border-t" style="border-color:#f0e6d6;">
+          <div class="flex items-center gap-2 mb-1">
+            <h3 style="font-size:1.5rem; color:#1c1917;">Angela</h3>
+            <span class="ml-auto text-xs" style="color:#c2602a;">Bookkeeper</span>
+          </div>
+          <p class="text-sm leading-relaxed mb-5" style="color:#78716c;">
+            QuickBooks Pro Advisor &amp; Norwex consultant. Homemaker. Legendary mac &amp; cheese. Knitter &amp; crocheter.
+          </p>
+          <div class="flex gap-2 flex-wrap">
+            <a href="https://www.linkedin.com/in/angela-verrips" class="text-xs px-3 py-1.5 rounded-lg" style="background:#fdf8f3; color:#78716c; border:1px solid #e8ddd0;">LinkedIn</a>
+            <a href="https://angelaverrips.norwex.biz" class="text-xs px-3 py-1.5 rounded-lg" style="background:#fdf8f3; color:#78716c; border:1px solid #e8ddd0;">Norwex</a>
+            <a href="https://www.facebook.com/averrips/" class="text-xs px-3 py-1.5 rounded-lg" style="background:#fdf8f3; color:#78716c; border:1px solid #e8ddd0;">Facebook</a>
+          </div>
+        </div>
+      </article>
+
+      <!-- Nathan -->
+      <article class="card rounded-xl overflow-hidden" style="background:#fff; border:1px solid #f0e6d6;">
+        <div class="h-64 overflow-hidden">
+          <img src="../docs/images/nathan-300x300.png" class="card-img w-full h-full object-cover object-top" alt="Nathan">
+        </div>
+        <div class="p-6 border-t" style="border-color:#f0e6d6;">
+          <div class="flex items-center gap-2 mb-1">
+            <h3 style="font-size:1.5rem; color:#1c1917;">Nathan</h3>
+            <span class="ml-auto text-xs" style="color:#c2602a;">Ophthalmic Scribe</span>
+          </div>
+          <p class="text-sm leading-relaxed mb-5" style="color:#78716c;">
+            Palmetto Eye &amp; Laser Center. Part-time student at USC Upstate. Lord of the Rings, Gray Havens, board games.
+          </p>
+          <div class="flex gap-2">
+            <a href="https://www.linkedin.com/in/nverrips/" class="text-xs px-3 py-1.5 rounded-lg" style="background:#fdf8f3; color:#78716c; border:1px solid #e8ddd0;">LinkedIn</a>
+          </div>
+        </div>
+      </article>
+
+      <!-- Luke -->
+      <article class="card rounded-xl overflow-hidden" style="background:#fff; border:1px solid #f0e6d6;">
+        <div class="h-64 overflow-hidden">
+          <img src="../docs/images/luke-300x300.png" class="card-img w-full h-full object-cover object-top" alt="Luke">
+        </div>
+        <div class="p-6 border-t" style="border-color:#f0e6d6;">
+          <div class="flex items-center gap-2 mb-1">
+            <h3 style="font-size:1.5rem; color:#1c1917;">Luke</h3>
+            <span class="ml-auto text-xs" style="color:#c2602a;">Swing Dancer</span>
+          </div>
+          <p class="text-sm leading-relaxed mb-5" style="color:#78716c;">
+            Deep conversation, Covenant Theology, Brandon Sanderson. Sings on Instagram as <em>Skilsings</em>. Woodruff Road PCA.
+          </p>
+          <div class="flex gap-2 flex-wrap">
+            <a href="https://www.instagram.com/skilfularcher" class="text-xs px-3 py-1.5 rounded-lg" style="background:#fdf8f3; color:#78716c; border:1px solid #e8ddd0;">Instagram</a>
+            <a href="https://www.youtube.com/@skilfularcher" class="text-xs px-3 py-1.5 rounded-lg" style="background:#fdf8f3; color:#78716c; border:1px solid #e8ddd0;">YouTube</a>
+          </div>
+        </div>
+      </article>
+
+      <!-- Don -->
+      <article class="card rounded-xl overflow-hidden" style="background:#fff; border:1px solid #f0e6d6;">
+        <div class="h-64 overflow-hidden">
+          <img src="../docs/images/don-80x80.png" class="card-img w-full h-full object-cover object-top" alt="Don">
+        </div>
+        <div class="p-6 border-t" style="border-color:#f0e6d6;">
+          <div class="flex items-center gap-2 mb-1">
+            <h3 style="font-size:1.5rem; color:#1c1917;">Don</h3>
+            <span class="ml-auto text-xs" style="color:#c2602a;">Angela's Dad</span>
+          </div>
+          <p class="text-sm leading-relaxed mb-5" style="color:#78716c;">
+            "Wuvie" to the grandkids. Member at Roebuck PCA. Records weekly sermons — archives on YouTube.
+          </p>
+          <div class="flex gap-2">
+            <a href="https://www.youtube.com/@donaldkirkwood" class="text-xs px-3 py-1.5 rounded-lg" style="background:#fdf8f3; color:#78716c; border:1px solid #e8ddd0;">YouTube</a>
+          </div>
+        </div>
+      </article>
+
+      <!-- Rachel -->
+      <article class="rounded-xl overflow-hidden" style="background:#fffcf8; border:1px dashed #d4c9b8;">
+        <div class="h-64 flex items-center justify-center" style="background:#f9f4ec;">
+          <div class="text-center">
+            <img src="../docs/images/rachel-80x80.png" class="h-28 w-28 rounded-full object-cover mx-auto mb-3" style="border:3px solid #e8ddd0;" alt="Rachel">
+            <p style="font-family:'Cormorant Garamond',serif; font-size:1.1rem; color:#a8a29e; font-style:italic;">2004</p>
+          </div>
+        </div>
+        <div class="p-6 border-t" style="border-color:#f0e6d6;">
+          <h3 style="font-size:1.5rem; color:#1c1917; margin-bottom:0.25rem;">Rachel <span style="font-size:0.85rem; font-weight:300; color:#a8a29e;">In God's Presence</span></h3>
+          <p class="text-sm leading-relaxed italic mt-2" style="color:#a8a29e;">
+            Her constant smile touched everyone it fell upon. We are honoured God shared her with us, even for such a short time.
+          </p>
+        </div>
+      </article>
+
+    </div>
+  </section>
+
+  <!-- What We Believe -->
+  <section id="believe" class="py-24" style="background:#fdf8f3; border-top:1px solid #f0e6d6;">
+    <div class="max-w-4xl mx-auto px-8 text-center">
+      <p class="text-xs tracking-[0.3em] uppercase mb-4" style="color:#c2602a;">Our Faith</p>
+      <h2 style="font-size:3rem; font-weight:300; color:#1c1917;" class="mb-6">What We Believe</h2>
+      <p class="text-lg leading-relaxed mb-10 max-w-2xl mx-auto" style="color:#78716c;">
+        We are a Christian (Protestant / Evangelical / Reformed) family who believe the Bible to be God's true word.
+        This 7-minute video offers a brief summary of what it means to be a Christian.
+      </p>
+      <div class="aspect-video rounded-2xl overflow-hidden shadow-xl mb-8 max-w-2xl mx-auto">
+        <iframe class="w-full h-full" src="https://www.youtube.com/embed/kbcvuu8lCFg?origin=https://verrips.org" allowfullscreen></iframe>
+      </div>
+      <p style="color:#a8a29e;" class="text-sm">Questions? <a href="mailto:roy@verrips.org" style="color:#c2602a; text-decoration:underline;">Email us</a> — we'd love to chat.</p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="py-8 text-center text-xs" style="background:#1c1917; color:#57534e;">
+    <p>Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" style="text-decoration:underline; color:#78716c;">Creative Commons Attribution-ShareAlike 4.0</a></p>
+    <p class="mt-2" style="color:#3d3630;">verrips.org — Design Option C: Hearthside</p>
+  </footer>
+
+</body>
+</html>
