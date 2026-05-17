@@ -181,7 +181,7 @@
                     <p>We are <a href="#roy">Roy</a>, <a href="#angela">Angela</a>, <a href="#nathan">Nathan</a>
                         and <a href="#luke"> Luke</a> <strong>Verrips</strong>, a <a href="#gospel">Christian</a>
                         family living in Reidville, South Carolina since the summer of 2022 which is also when Angela's parents,
-                        <a href="#don"> Don</a> and <a href="#jenny"> Jenny</a> (Kirkwood) came to life with us.</p>
+                        <a href="#don"> Don</a> and <a href="#jenny"> Jenny</a> (Kirkwood) came to live with us.</p>
                     <br>
                     <p>We are all originally from South Africa, but before immigrating to the US in 2016 we spent
                         about 15 years living as a family in the Middle East.  Dubai in the United Arab Emirates was home
@@ -210,10 +210,10 @@
                     <p><img src="./docs/images/Roy-2021-Smile-300x300.png" class="left no_border" alt="Roy Verrips"
                             style="margin-top: 0px; margin-right: 0px" height="80px"
                             width="80px"><strong>Roy</strong> works as a Director of IT for <a
-                            href="https://autohotes.com" target="_blank">Auro Hotels</a>, a Hotel Ownership company
-                        based in Greenville, South Carolina – When he's not working, aside from spending time with his
-                        family he loves reading and does a little php, javascript and laravel <i>“on the side.”</i> <br><p>You
-                        can contact or follow Roy on the following networks:</p>
+                            href=”https://aurohotels.com” target=”_blank”>Auro Hotels</a>, a hotel management company
+                        based in Greenville, South Carolina. When he's not working, aside from spending time with his
+                        family he loves reading and does a little PHP, JavaScript and Laravel <i>”on the side.”</i></p>
+                    <p>You can contact or follow Roy on the following networks:</p>
                     <div class="space"> </div>
                     <div class="clear"> </div>
                     <ul class="grid">
@@ -239,13 +239,13 @@
                 <div class="page_content">
                     <p><img src="./docs/images/angela-300x300.png" class="left no_border" alt="Angela Verrips"
                             style="margin-top: 0px; margin-right: 0px" height="80px"
-                            width="80px"><strong>Angela</strong> works from home as a bookeeper and caring for <a
+                            width="80px"><strong>Angela</strong> works from home as a bookkeeper and caring for <a
                             href="#roy">Roy</a>, <a href="#nathan">Nathan</a>, <a href="#luke"> Luke</a> and <a
                             href="#don">Don</a>.
                             Angela is available for hire as a <a
-                            href="https://quickbooks.intuit.com/quickbooks-pro-advisor/" target="_blank">QuickBooks Pro Advisor</a>. Angela further strives to make our home a "safe haven", so enjoys also being a sales consultant
+                            href="https://quickbooks.intuit.com/quickbooks-pro-advisor/" target="_blank">QuickBooks Pro Advisor</a>. Angela further strives to make our home a "safe haven", so she also enjoys being a sales consultant
                         for <a target="_blank" href="https://angelaverrips.norwex.biz">Norwex</a>, North America. <br>To
-                        relax Angela enjoys to knit and crochet. She is an excellent cook and her oven baked macaroni
+                        relax Angela enjoys knitting and crocheting. She is an excellent cook and her oven baked macaroni
                         and cheese is legendary. She also enjoys baking cookies and other treats, so come hungry!
                         <br></p><p>Angela's consultant site and social network links are listed below:</p>
                     <div class="space"> </div>
@@ -267,12 +267,12 @@
                 <div class="page_content">
                     <p><img src="./docs/images/nathan-300x300.png" class="left no_border" alt="Nathan Verrips"
                             style="margin-top: 0px; margin-right: 0px" height="80px"
-                            width="80px"><strong>Nathan</strong> is twenty four, and loves <a
+                            width="80px"><strong>Nathan</strong> is twenty-four, and loves <a
                             href="https://www.thegrayhavensmusic.com" target="_blank">the Gray Havens Music</a>, Lord
                         of The Rings lore, <a href="https://lotr.fandom.com/wiki/Grond" target="_blank">Grond</a> and
                         playing board games. He graduated from <a
                             href="https://www.cod.edu/about/stories/students/verrips.aspx">College of DuPage</a> in
-                        2023 as a Certified Opthalmic Technician on his path into a career of optometry/ophthalmology. He is currently enrolled as a part-time student at <a href="https://uscupstate.edu/">University of South Carolina Upstate</a> continuing his studies. Nathan currently works full-time as an Opthalmic Scribe at <a href="https://www.palmettoeyeandlaser.com/"
+                        2023 as a Certified Ophthalmic Technician on his path into a career of optometry/ophthalmology. He is currently enrolled as a part-time student at <a href="https://uscupstate.edu/">University of South Carolina Upstate</a> continuing his studies. Nathan currently works full-time as an Ophthalmic Scribe at <a href="https://www.palmettoeyeandlaser.com/"
                             target="_blank">Palmetto Eye & Laser Center</a> in Spartanburg and is a member at <a href="https://heritagegvl.com/">Heritage Bible Church in Greenville</a>.</p>
                     <p>Nathan keeps busy editing and updating a number of Christian websites linked below:</p>
                     <div class="space"> </div>
@@ -311,16 +311,16 @@
                 <div class="page_content">
                     <p><img src="./docs/images/luke-300x300.png" class="left no_border" alt="Luke Verrips"
                             style="margin-top: 0px; margin-right: 0px" height="80px"
-                            width="80px"><strong>Luke</strong> is ninteen years old and loves spending time with
+                            width="80px"><strong>Luke</strong> is nineteen years old and loves spending time with
                         people, especially when they can talk through serious things like Covenant Theology, but also
                         Fantasy Fiction from authors like Brandon Sanderson. To fund his passion for Swing Dancing he
                         works in the kitchen at <a href="https://www.chick-fil-a.com/locations/sc/duncan"
-                            target="_blank">Chic-Fil-A, Duncan</a>.  Luke is a member of <a
-                            href="https://www.woodruffroad.com/">Woodruff Road Presbyterian Church in America</a>
-                        <br>
+                            target="_blank">Chick-fil-A, Duncan</a>.  Luke is a member of <a
+                            href="https://www.woodruffroad.com/">Woodruff Road Presbyterian Church in America</a>.
+                    </p>
                     <p>There are some interesting uploads on his YouTube channel (under the handle
-                        <em>SkilfulArcher</em>) and some songs he's sung into Instagram (under the handle
-                        <em>Skilsings</em>)linked below.
+                        <em>SkilfulArcher</em>) and some songs he's posted to Instagram (under the handle
+                        <em>Skilsings</em>) linked below.
                     </p>
                     <div class="space"> </div>
                     <div class="clear"> </div>
@@ -340,11 +340,10 @@
                 <div class="page_content">
                     <p><img src="./docs/images/don-80x80.png" class="left no_border" alt="Don Kirkwood"
                             style="margin-top: 0px; margin-right: 0px" height="80px"
-                            width="80px"><strong>Don</strong> Kirkwood (Angela's dad) has been living with us since 2022 upon immigrating from South Africa. "Dad" or "Wuvie" (as he's known by the kids) works at <a href="https://www.ctcworldwide.org/"
-                            target="_blank">CTC i.e. Christian Teaching Christians</a> and is a member
+                            width="80px"><strong>Don</strong> Kirkwood (Angela's dad) has been living with us since 2022 upon immigrating from South Africa. "Dad" or "Wuvie" (as he's known by the kids) is a member
                             of <a href="https://roebuckpca.com/">Roebuck Presbyterian Church in America</a>.
-
-                    <p>Don also records a weekly sermon to youtube.</p>
+                    </p>
+                    <p>Don records a weekly sermon to YouTube, the archives of which you can find in the link below.</p>
                     <div class="space"> </div>
                     <div class="clear"> </div>
                     <ul class="grid">
@@ -361,7 +360,7 @@
                 <div class="page_content">
                     <p><img src="./docs/images/jenny-300x300.png" class="left no_border" alt="Jenny Kirkwood"
                             style="margin-top: 0px; margin-right: 0px" height="80px"
-                            width="80px">Angela's Mom, <strong>Jenny</strong> (Kirkwood) immigrated with her husband, <a href="#don"> Don</a> from South Africa in 2022 to live with us in Reidville, SC.<br>Jenny went on ahead to be with our Lord in November, 2024.</p>
+                            width="80px">Angela's Mom, <strong>Jenny</strong> (Kirkwood) immigrated with her husband, <a href="#don"> Don</a> from South Africa in 2022 to live with us in Reidville, SC.<br>Jenny went on ahead to be with our Lord in November 2024.</p>
                 </div>
             </div>
 
@@ -375,11 +374,11 @@
                                 </div> -->
             <div class="page" id="gospel">
                 <!-- The Gospel, What We Believe, Two Ways To Live -->
-                <h1 class="page_title"> What we Believe</h1>
+                <h1 class="page_title"> What We Believe</h1>
                 <div class="page_content">
                     <p>We are a Christian (Protestant/Evangelical/Reformed) family who believe the
                         <strong>Bible</strong> to be God's true word. The below 7-minute video is a brief summary and
-                        explaination of "What a Christian is" and "What it is Christians Believe".<br>
+                        explanation of "What a Christian is" and "What it is Christians Believe".<br>
                     </p>
                     <h4 class="blue"> What is a Christian?</h4>
                     <div class="js-video">
