@@ -40,18 +40,30 @@ h1, h2, h3, h4 {
     font-family: var(--font-serif);
 }
 
-/* Photo mosaic grid — mobile first */
+/* Photo mosaic grid — mobile first: single column */
 .mosaic {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-auto-rows: 160px;
+    grid-template-columns: 1fr;
+    grid-auto-rows: 220px;
     gap: 4px;
 }
-.mosaic-wide  { grid-column: span 2; }
-.mosaic-xwide { grid-column: span 2; } /* capped at 2 on mobile */
+.mosaic-wide,
+.mosaic-xwide { grid-column: span 1; }
 .mosaic-tall  { grid-row: span 2; }
-.mosaic-big   { grid-column: span 2; grid-row: span 2; }
-.mosaic-xbig  { grid-column: span 2; grid-row: span 2; }
+.mosaic-big,
+.mosaic-xbig  { grid-column: span 1; grid-row: span 2; }
+
+/* Small tablets: 2 columns */
+@media (min-width: 640px) {
+    .mosaic {
+        grid-template-columns: repeat(2, 1fr);
+        grid-auto-rows: 160px;
+    }
+    .mosaic-wide,
+    .mosaic-xwide { grid-column: span 2; }
+    .mosaic-big,
+    .mosaic-xbig  { grid-column: span 2; grid-row: span 2; }
+}
 
 /* Desktop: full 4-column mosaic */
 @media (min-width: 768px) {
