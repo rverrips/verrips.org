@@ -26,7 +26,7 @@ return [
             'focus' => 'center',
             'role' => 'IT Director',
             'bio' => 'Works at Auro Hotels in Greenville, SC. When not working, Roy loves reading and dabbles in PHP, JavaScript and Laravel on the side.',
-            'church' => ['name' => 'Reidville PCAcim', 'url' => 'https://reidvillepca.org'],
+            'church' => ['name' => 'Reidville PCA', 'url' => 'https://reidvillepca.org'],
             'links' => [
                 ['label' => 'LinkedIn',  'url' => 'https://www.linkedin.com/in/rverrips'],
                 ['label' => 'Instagram', 'url' => 'https://www.instagram.com/rverrips'],
