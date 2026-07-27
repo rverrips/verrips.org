@@ -8,14 +8,6 @@
 
 Updates and details about Roy, Angela, Nathan, Rachel and Luke Verrips
 
-### Current Release
-
-Basic One Page HTML File adapted to run as view within Laravel 12.x
-
-Original Template from [Sarfraz Shoukat](https://esarfraz.com) as published on [Free Responsive Css3 and Html5 Templates](https://www.html5xcss3.com/2012/07/html5-template-onepager-responsive.html)
-
-Integrated into [Laravel](https://laravel.com) [version 12](https://laravel.com/docs/12.x)
-
 ## History
 
 [History](/public/timeline/life.md)
