@@ -42,10 +42,17 @@
             @endif
         </div>
 
-        <p class="text-sm leading-relaxed mb-5 {{ $isMemorial ? 'italic' : '' }}"
+        <p class="text-sm leading-relaxed {{ $isMemorial ? 'italic' : '' }} {{ isset($member['church']) ? 'mb-2' : 'mb-5' }}"
            style="color: {{ $isMemorial ? '#9a8c78' : '#6b5e4e' }};">
             {!! $member['bio'] !!}
         </p>
+
+        @isset($member['church'])
+            <p class="text-xs mb-5" style="color:#9a8c78;">
+                Member at <a href="{{ $member['church']['url'] }}" target="_blank" rel="noopener noreferrer"
+                   class="underline hover:opacity-70" style="color:#6a7c59;">{{ $member['church']['name'] }}</a>
+            </p>
+        @endisset
 
         @if (!empty($member['links']))
             <div class="flex gap-2 flex-wrap">
