@@ -35,7 +35,9 @@
 - 2013/04/30-2020/10/05 HTML5/CSS Single Page Site with Family Pic's and links to Social
 - 2013/06/30-~ Code hosted in [GitHub](https://github.com/rverrips/verrips.org)
 - 2020/10/05-2025/06/28 Single page site inside [Laravel](https://laravel.com) framework [version 8](https://laravel.com/docs/8.x)
-- 2025/06/28-~ [Laravel](https://laravel.com) [version 12](https://laravel.com/docs/12.x)
+- 2025/06/28-2026/05/16 [Laravel](https://laravel.com) [version 12](https://laravel.com/docs/12.x)
+- 2026/05/16-~ [Laravel](https://laravel.com) [version 13](https://laravel.com/docs/13.x)
+- 2026/05/16-~ "Garden Warmth" redesign — Tailwind CSS, Livewire, Folio, and Flux Pro
 
 ## 2001 Where in the world
 
