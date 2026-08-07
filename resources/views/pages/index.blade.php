@@ -19,7 +19,7 @@ $members = $family['members'];
             The Verrips<br>
             <span style="color: #6a7c59; font-style: italic; font-weight: 300;">Family</span>
         </h1>
-        <p class="text-lg font-light" style="color: #9a8c78;">Roy · Angela · Nathan · Luke · Don</p>
+        <p class="text-lg font-light" style="color: #9a8c78;">Roy · Angela · Nathan · Luke · Jordan · Don</p>
     </header>
 
     <!-- Photo mosaic -->
@@ -103,12 +103,12 @@ $members = $family['members'];
             <p class="leading-relaxed text-lg mb-5" style="color: #4a3f33;">
                 We are <strong>Roy, Angela, Nathan</strong> and <strong>Luke Verrips</strong>, a
                 <a href="#believe" class="underline" style="color: #4a6741;">Christian</a> family living in
-                Reidville, South Carolina since the summer of 2022 — when Angela's father,
-                <strong>Don Kirkwood</strong>, also came to live with us.
+                Reidville, South Carolina since the summer of 2022 when Angela's parents,
+                <strong>Don</strong> and <strong>Jenny (Kirkwood)</strong>, came to live with us.  <strong>Jordan</strong> joined our family in 2025.
             </p>
             <p class="leading-relaxed text-lg mb-5" style="color: #4a3f33;">
-                We are originally from South Africa, and spent about 15 years in the Middle East — Dubai,
-                Abu Dhabi, and Doha, Qatar — before immigrating to the US in 2016.
+                We are originally from South Africa, and spent about 15 years living in the Middle East (Dubai,
+                Abu Dhabi, and Doha, Qatar) before immigrating to the US in 2016. intially living in the Chicagoland area.
             </p>
             <p class="leading-relaxed text-lg mb-8" style="color: #4a3f33;">
                 We pray and trust that God will continue to strengthen us in His mercy and grace, and that

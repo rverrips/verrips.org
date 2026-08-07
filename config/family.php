@@ -75,6 +75,15 @@ return [
             ],
         ],
         [
+            'id' => 'jordan',
+            'name' => 'Jordan',
+            'photo' => 'docs/images/jordan-600x600.png',
+            'focus' => 'top',
+            'role' => 'Daughter-in-Love',
+            'bio' => 'Jordan has been living with us since late 2025. She is a talented artist and loves to cook so has been a great addition to our family.',
+            'church' => ['name' => 'Woodruff Road PCA', 'url' => 'https://www.woodruffroad.com'],
+        ],
+        [
             'id' => 'don',
             'name' => 'Don',
             'photo' => 'docs/images/don-300x300.png',
