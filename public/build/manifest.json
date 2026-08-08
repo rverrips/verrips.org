@@ -1,6 +1,6 @@
 {
   "resources/css/app.css": {
-    "file": "assets/app-C0FclKFJ.css",
+    "file": "assets/app-y76PXbPa.css",
     "name": "app",
     "names": [
       "app.css"
@@ -8,8 +8,92 @@
     "src": "resources/css/app.css",
     "isEntry": true
   },
+  "resources/images/Roy-2021-Smile-300x300.png": {
+    "file": "assets/Roy-2021-Smile-300x300-BOBmL5Gk.png",
+    "src": "resources/images/Roy-2021-Smile-300x300.png"
+  },
+  "resources/images/angela-300x300.png": {
+    "file": "assets/angela-300x300-Cruj5M-_.png",
+    "src": "resources/images/angela-300x300.png"
+  },
+  "resources/images/don-300x300.png": {
+    "file": "assets/don-300x300-CVj0H1-2.png",
+    "src": "resources/images/don-300x300.png"
+  },
+  "resources/images/jenny-300x300.png": {
+    "file": "assets/jenny-300x300-Xp91Jp1S.png",
+    "src": "resources/images/jenny-300x300.png"
+  },
+  "resources/images/jordan-600x600.png": {
+    "file": "assets/jordan-600x600-D6O_Hni3.png",
+    "src": "resources/images/jordan-600x600.png"
+  },
+  "resources/images/luke-300x300.png": {
+    "file": "assets/luke-300x300-C_A7cBuw.png",
+    "src": "resources/images/luke-300x300.png"
+  },
+  "resources/images/nathan-300x300.png": {
+    "file": "assets/nathan-300x300-C-3RYiZ-.png",
+    "src": "resources/images/nathan-300x300.png"
+  },
+  "resources/images/rachel-300x300.png": {
+    "file": "assets/rachel-300x300-CM1TshWT.png",
+    "src": "resources/images/rachel-300x300.png"
+  },
+  "resources/images/verrips-2004.png": {
+    "file": "assets/verrips-2004-CBKB-zWk.png",
+    "src": "resources/images/verrips-2004.png"
+  },
+  "resources/images/verrips-2006.png": {
+    "file": "assets/verrips-2006-c72yGR-n.png",
+    "src": "resources/images/verrips-2006.png"
+  },
+  "resources/images/verrips-2008.png": {
+    "file": "assets/verrips-2008-yNPnu4Pk.png",
+    "src": "resources/images/verrips-2008.png"
+  },
+  "resources/images/verrips-2009.png": {
+    "file": "assets/verrips-2009-B9X3387M.png",
+    "src": "resources/images/verrips-2009.png"
+  },
+  "resources/images/verrips-2010.png": {
+    "file": "assets/verrips-2010-CU_eCR_a.png",
+    "src": "resources/images/verrips-2010.png"
+  },
+  "resources/images/verrips-2012.png": {
+    "file": "assets/verrips-2012-DYrskfFT.png",
+    "src": "resources/images/verrips-2012.png"
+  },
+  "resources/images/verrips-2014.png": {
+    "file": "assets/verrips-2014-xGYAIrdm.png",
+    "src": "resources/images/verrips-2014.png"
+  },
+  "resources/images/verrips-2018b.png": {
+    "file": "assets/verrips-2018b-DFLtKhgW.png",
+    "src": "resources/images/verrips-2018b.png"
+  },
+  "resources/images/verrips-2020.png": {
+    "file": "assets/verrips-2020-Bso22oHe.png",
+    "src": "resources/images/verrips-2020.png"
+  },
+  "resources/images/verrips-2021.png": {
+    "file": "assets/verrips-2021-BL48P6Ej.png",
+    "src": "resources/images/verrips-2021.png"
+  },
+  "resources/images/verrips-2022.png": {
+    "file": "assets/verrips-2022-CeujZdl-.png",
+    "src": "resources/images/verrips-2022.png"
+  },
+  "resources/images/verrips-2023.png": {
+    "file": "assets/verrips-2023-BsoQ0ktc.png",
+    "src": "resources/images/verrips-2023.png"
+  },
+  "resources/images/verrips-2025.png": {
+    "file": "assets/verrips-2025-ILYbZ6Up.png",
+    "src": "resources/images/verrips-2025.png"
+  },
   "resources/js/app.js": {
-    "file": "assets/app-Bt3kCvlU.js",
+    "file": "assets/app-VCtQegrT.js",
     "name": "app",
     "src": "resources/js/app.js",
     "isEntry": true

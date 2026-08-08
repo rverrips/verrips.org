@@ -11,12 +11,12 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="{{ $title ?? 'Verrips Family' }}">
     <meta property="og:description" content="{{ $description ?? 'Updates and details about Roy, Angela, Nathan, Luke and Don Verrips.' }}">
-    <meta property="og:image" content="{{ asset('docs/images/verrips-2025.png') }}">
+    <meta property="og:image" content="{{ Vite::asset('resources/images/verrips-2025.png') }}">
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ $title ?? 'Verrips Family' }}">
-    <meta name="twitter:image" content="{{ asset('docs/images/verrips-2025.png') }}">
+    <meta name="twitter:image" content="{{ Vite::asset('resources/images/verrips-2025.png') }}">
 
     <link rel="shortcut icon" href="{{ asset('docs/favicon.ico') }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">

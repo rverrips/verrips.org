@@ -32,9 +32,9 @@ $members = $family['members'];
         <div class="mosaic rounded-3xl overflow-hidden shadow-lg">
             @foreach ($photos as $photo)
                 <div class="{{ $photo['span'] ? 'mosaic-' . $photo['span'] : '' }} relative group overflow-hidden cursor-pointer"
-                     data-photo="{!! e(json_encode(['src' => asset($photo['src']), 'alt' => $photo['alt'], 'people' => $photo['people'], 'location' => $photo['location'], 'year' => $photo['year']])) !!}"
+                     data-photo="{!! e(json_encode(['src' => Vite::asset($photo['src']), 'alt' => $photo['alt'], 'people' => $photo['people'], 'location' => $photo['location'], 'year' => $photo['year']])) !!}"
                      @click="show(JSON.parse($el.dataset.photo))">
-                    <img src="{{ asset($photo['src']) }}"
+                    <img src="{{ Vite::asset($photo['src']) }}"
                          alt="{{ $photo['alt'] }}"
                          class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
                          style="object-position: {{ $photo['focus'] ?? 'center' }};">

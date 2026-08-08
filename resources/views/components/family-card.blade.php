@@ -11,7 +11,7 @@
          style="{{ $isMemorial ? 'background:#f5f0e8;' : '' }}">
         @if ($isMemorial)
             <div class="text-center">
-                <img src="{{ asset($member['photo']) }}"
+                <img src="{{ Vite::asset($member['photo']) }}"
                      alt="{{ $member['name'] }}"
                      class="h-[250px] w-[250px] rounded-full object-cover mx-auto border-4"
                      style="border-color: #d4c9b0; object-position: {{ $member['focus'] ?? 'center' }};">
@@ -20,7 +20,7 @@
                 </p>
             </div>
         @else
-            <img src="{{ asset($member['photo']) }}"
+            <img src="{{ Vite::asset($member['photo']) }}"
                  alt="{{ $member['name'] }}"
                  class="w-full h-full object-cover transition-transform duration-500 hover:scale-105"
                  style="object-position: {{ $member['focus'] ?? 'center' }};">
