@@ -142,7 +142,7 @@ return [
             Reidville, South Carolina since the summer of 2022 when Angela\'s parents,
             <strong>Don</strong> and <strong>Jenny (Kirkwood)</strong>, came to live with us.  <strong>Jordan</strong> joined our family in 2025.',
             'We are originally from South Africa, and spent about 15 years living in the Middle East (Dubai,
-            Abu Dhabi, and Doha, Qatar) before immigrating to the US in 2016. intially living in the Chicagoland area.',
+            Abu Dhabi, and Doha, Qatar) before immigrating to the US in 2016, intially living in the Chicagoland area.',
             'We pray and trust that God will continue to strengthen us in His mercy and grace, and that
             we may be a blessing to those He brings across our path.',
         ],
