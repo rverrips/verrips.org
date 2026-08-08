@@ -9,6 +9,7 @@ Head::title('Verrips Family — Roy, Angela, Nathan and Luke Verrips');
 $family = config('family');
 $photos  = $family['photos'];
 $members = $family['members'];
+$about   = $family['about'];
 ?>
 
 <x-layouts.app>
@@ -99,48 +100,31 @@ $members = $family['members'];
     <!-- About -->
     <section id="about" class="py-20 border-y" style="background: #eef4e8; border-color: #d4e3c8;">
         <div class="max-w-3xl mx-auto px-6">
-            <h2 class="font-serif text-center mb-2" style="font-size: 2.5rem; color: #2d2a24;">About Us</h2>
+            <h2 class="font-serif text-center mb-2" style="font-size: 2.5rem; color: #2d2a24;">{{ $about['heading'] }}</h2>
             <p class="text-center mb-8 text-sm tracking-widest uppercase" style="color: #6a7c59;">
-                A Christian Family
+                {{ $about['tagline'] }}
             </p>
 
-            <p class="leading-relaxed text-lg mb-5" style="color: #4a3f33;">
-                We are <strong>Roy, Angela, Nathan</strong> and <strong>Luke Verrips</strong>, a
-                <a href="#believe" class="underline" style="color: #4a6741;">Christian</a> family living in
-                Reidville, South Carolina since the summer of 2022 when Angela's parents,
-                <strong>Don</strong> and <strong>Jenny (Kirkwood)</strong>, came to live with us.  <strong>Jordan</strong> joined our family in 2025.
-            </p>
-            <p class="leading-relaxed text-lg mb-5" style="color: #4a3f33;">
-                We are originally from South Africa, and spent about 15 years living in the Middle East (Dubai,
-                Abu Dhabi, and Doha, Qatar) before immigrating to the US in 2016. intially living in the Chicagoland area.
-            </p>
-            <p class="leading-relaxed text-lg mb-8" style="color: #4a3f33;">
-                We pray and trust that God will continue to strengthen us in His mercy and grace, and that
-                we may be a blessing to those He brings across our path.
-            </p>
+            @foreach ($about['paragraphs'] as $paragraph)
+                <p class="leading-relaxed text-lg {{ $loop->last ? 'mb-8' : 'mb-5' }}" style="color: #4a3f33;">
+                    {!! $paragraph !!}
+                </p>
+            @endforeach
 
             <blockquote class="border-l-4 pl-6 py-2 mb-6" style="border-color: #6a7c59;">
                 <p class="font-serif italic mb-2" style="font-size: 1.3rem; color: #2d2a24;">
-                    "Our Saviour is Gentle and Lowly in heart."
+                    "{{ $about['quote']['text'] }}"
                 </p>
                 <cite class="text-sm not-italic" style="color: #6a7c59;">
-                    — <a href="https://esv.org/Matthew11:29b" target="_blank" class="underline hover:opacity-70">Matthew 11:29</a>
+                    — <a href="{{ $about['quote']['citation_url'] }}" target="_blank" class="underline hover:opacity-70">{{ $about['quote']['citation'] }}</a>
                 </cite>
             </blockquote>
-
-            {{-- <p class="text-sm text-center" style="color: #9a8c78;">
-                Roy and Angela are members of
-                <a href="https://reidvillepca.org" target="_blank" class="underline" style="color: #4a3f33;">
-                    <strong>Reidville Presbyterian Church in America</strong>
-                </a>
-            </p> --}}
         </div>
     </section>
 
     <!-- Family cards -->
     <section id="family" class="max-w-6xl mx-auto px-6 py-20">
         <h2 class="font-serif text-center mb-2" style="font-size: 2.5rem; color: #2d2a24;">Our Family</h2>
-        {{-- <p class="text-center mb-12 text-sm tracking-widest uppercase" style="color: #6a7c59;">Each one a gift</p> --}}
 
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             @foreach ($members as $member)

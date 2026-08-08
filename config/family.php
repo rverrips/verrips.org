@@ -18,6 +18,26 @@ return [
         ['src' => 'resources/images/verrips-2004.png',  'alt' => 'Rachel, Angela, Roy and Nathan — Dubai, UAE 2004',                                 'people' => 'Rachel, Angela, Roy and Nathan',                 'location' => 'Dubai, UAE',     'year' => '2004', 'span' => 'xbig', 'focus' => 'center'],
     ],
 
+    'about' => [
+        'heading' => 'About Us',
+        'tagline' => 'A Christian Family',
+        'paragraphs' => [
+            'We are <strong>Roy, Angela, Nathan</strong> and <strong>Luke Verrips</strong>, a
+            <a href="#believe" class="underline" style="color: #4a6741;">Christian</a> family living in
+            Reidville, South Carolina since the summer of 2022 when Angela\'s parents,
+            <strong>Don</strong> and <strong>Jenny (Kirkwood)</strong>, came to live with us.  <strong>Jordan</strong> joined our family in 2025.',
+            'We are originally from South Africa, and spent about 15 years living in the Middle East (Dubai,
+            Abu Dhabi, and Doha, Qatar) before immigrating to the US in 2016. intially living in the Chicagoland area.',
+            'We pray and trust that God will continue to strengthen us in His mercy and grace, and that
+            we may be a blessing to those He brings across our path.',
+        ],
+        'quote' => [
+            'text' => 'Our Saviour is Gentle and Lowly in heart.',
+            'citation' => 'Matthew 11:29',
+            'citation_url' => 'https://esv.org/Matthew11:29b',
+        ],
+    ],
+
     'members' => [
         [
             'id' => 'roy',
