@@ -7,9 +7,13 @@ name('home');
 Head::title('Verrips Family — Roy, Angela, Nathan and Luke Verrips');
 
 $family = config('family');
-$photos  = $family['photos'];
-$members = $family['members'];
-$about   = $family['about'];
+$hero          = $family['hero'];
+$photos        = $family['photos'];
+$gallery       = $family['gallery'];
+$about         = $family['about'];
+$familySection = $family['family_section'];
+$members       = $family['members'];
+$believe       = $family['believe'];
 ?>
 
 <x-layouts.app>
@@ -18,13 +22,13 @@ $about   = $family['about'];
     <header id="home" class="max-w-6xl mx-auto px-6 pt-14 pb-10 text-center">
         <div class="inline-flex items-center gap-2 mb-5 px-4 py-1.5 rounded-full text-xs font-medium tracking-widest uppercase"
              style="background: #eef4e8; color: #4a6741;">
-            ✦ Est. 2001 · South Africa → Middle East → USA
+            ✦ {{ $hero['eyebrow'] }}
         </div>
         <h1 class="font-serif mb-4" style="font-size: 3.5rem; line-height: 1.15; color: #2d2a24;">
-            The Verrips<br>
-            <span style="color: #6a7c59; font-style: italic; font-weight: 300;">Family</span>
+            {{ $hero['title'] }}<br>
+            <span style="color: #6a7c59; font-style: italic; font-weight: 300;">{{ $hero['title_accent'] }}</span>
         </h1>
-        <p class="text-lg font-light" style="color: #9a8c78;">Roy · Angela · Nathan · Luke · Jordan · Don</p>
+        <p class="text-lg font-light" style="color: #9a8c78;">{{ $hero['subtitle'] }}</p>
     </header>
 
     <!-- Photo mosaic -->
@@ -55,7 +59,7 @@ $about   = $family['about'];
         </div>
 
         <p class="text-center mt-4 text-sm italic" style="color: #b0a090;">
-            Years of memories, from Dubai to South Carolina
+            {{ $gallery['caption'] }}
         </p>
 
         <!-- Lightbox -->
@@ -124,7 +128,7 @@ $about   = $family['about'];
 
     <!-- Family cards -->
     <section id="family" class="max-w-6xl mx-auto px-6 py-20">
-        <h2 class="font-serif text-center mb-2" style="font-size: 2.5rem; color: #2d2a24;">Our Family</h2>
+        <h2 class="font-serif text-center mb-2" style="font-size: 2.5rem; color: #2d2a24;">{{ $familySection['heading'] }}</h2>
 
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
             @foreach ($members as $member)
@@ -136,22 +140,21 @@ $about   = $family['about'];
     <!-- What We Believe -->
     <section id="believe" class="py-20" style="background: #2d2a24; color: #f5f0e8;">
         <div class="max-w-3xl mx-auto px-6 text-center">
-            <h2 class="font-serif mb-2" style="font-size: 2.5rem; color: #f5f0e8;">What We Believe</h2>
+            <h2 class="font-serif mb-2" style="font-size: 2.5rem; color: #f5f0e8;">{{ $believe['heading'] }}</h2>
             <p class="mb-8 text-sm tracking-widest uppercase" style="color: #6a7c59;">
-                Protestant · Evangelical · Reformed
+                {{ $believe['tagline'] }}
             </p>
             <p class="leading-relaxed text-lg mb-10" style="color: #c8bfb0;">
-                We are a Christian family who believe the Bible to be God's true word. This 7-minute video
-                offers a brief summary of what it means to be a Christian.
+                {{ $believe['description'] }}
             </p>
             <div class="aspect-video rounded-2xl overflow-hidden shadow-2xl mb-8">
                 <iframe class="w-full h-full"
-                        src="https://www.youtube.com/embed/kbcvuu8lCFg?origin={{ urlencode(config('app.url')) }}"
+                        src="https://www.youtube.com/embed/{{ $believe['video_id'] }}?origin={{ urlencode(config('app.url')) }}"
                         allowfullscreen>
                 </iframe>
             </div>
             <p class="text-sm" style="color: #9a8c78;">
-                Questions? <a href="mailto:roy@verrips.org" class="underline" style="color: #6a7c59;">Email us</a> — we'd love to talk.
+                {!! $believe['contact_text'] !!}
             </p>
         </div>
     </section>

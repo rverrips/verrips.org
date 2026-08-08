@@ -2,6 +2,13 @@
 
 return [
 
+    'hero' => [
+        'eyebrow' => 'Est. 2001 · South Africa → Middle East → USA',
+        'title' => 'The Verrips',
+        'title_accent' => 'Family',
+        'subtitle' => 'Roy · Angela · Nathan · Luke · Jordan · Don',
+    ],
+
     'photos' => [
         ['src' => 'resources/images/verrips-2025.png',  'alt' => 'Roy, Luke, Don, Nathan and Angela — Reidville, SC 2025',                          'people' => 'Roy, Luke, Don, Nathan and Angela',              'location' => 'Reidville, SC',  'year' => '2025', 'span' => 'big',  'focus' => 'center'],
         ['src' => 'resources/images/verrips-2023.png',  'alt' => 'Don and Jenny Kirkwood, Luke, Angela, Roy, Nathan and Henri — Reidville, SC 2023', 'people' => 'Don & Jenny Kirkwood, Luke, Angela, Roy, Nathan, Henri', 'location' => 'Reidville, SC',  'year' => '2023', 'span' => 'big',  'focus' => 'center'],
@@ -16,6 +23,10 @@ return [
         ['src' => 'resources/images/verrips-2008.png',  'alt' => 'Angela, Luke, Nathan and Roy — Dubai, UAE 2008',                                   'people' => 'Angela, Luke, Nathan and Roy',                   'location' => 'Dubai, UAE',     'year' => '2008', 'span' => 'big', 'focus' => 'center'],
         ['src' => 'resources/images/verrips-2006.png',  'alt' => 'Angela, Luke, Nathan and Roy — Dubai, UAE 2006',                                   'people' => 'Angela, Luke, Nathan and Roy',                   'location' => 'Dubai, UAE',     'year' => '2006', 'span' => 'xbig', 'focus' => 'center'],
         ['src' => 'resources/images/verrips-2004.png',  'alt' => 'Rachel, Angela, Roy and Nathan — Dubai, UAE 2004',                                 'people' => 'Rachel, Angela, Roy and Nathan',                 'location' => 'Dubai, UAE',     'year' => '2004', 'span' => 'xbig', 'focus' => 'center'],
+    ],
+
+    'gallery' => [
+        'caption' => 'Years of memories, from Dubai to South Carolina',
     ],
 
     'about' => [
@@ -36,6 +47,10 @@ return [
             'citation' => 'Matthew 11:29',
             'citation_url' => 'https://esv.org/Matthew11:29b',
         ],
+    ],
+
+    'family_section' => [
+        'heading' => 'Our Family',
     ],
 
     'members' => [
@@ -138,6 +153,15 @@ return [
             'memorial' => true,
             'memorial_year' => '2024',
         ],
+    ],
+
+    'believe' => [
+        'heading' => 'What We Believe',
+        'tagline' => 'Protestant · Evangelical · Reformed',
+        'description' => 'We are a Christian family who believe the Bible to be God\'s true word. This 7-minute video
+            offers a brief summary of what it means to be a Christian.',
+        'video_id' => 'kbcvuu8lCFg',
+        'contact_text' => 'Questions? <a href="mailto:roy@verrips.org" class="underline" style="color: #6a7c59;">Email us</a> — we\'d love to talk.',
     ],
 
 ];
