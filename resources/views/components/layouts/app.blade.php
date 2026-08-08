@@ -3,22 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ $title ?? 'Verrips Family' }}</title>
-    <meta name="description" content="{{ $description ?? 'Updates and details about Roy, Angela, Nathan, Luke and Don Verrips — a Christian family in Reidville, South Carolina.' }}">
+    @head
 
-    <!-- Open Graph -->
-    <meta property="og:url" content="{{ url()->current() }}">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="{{ $title ?? 'Verrips Family' }}">
-    <meta property="og:description" content="{{ $description ?? 'Updates and details about Roy, Angela, Nathan, Luke and Don Verrips.' }}">
-    <meta property="og:image" content="{{ Vite::asset('resources/images/verrips-2025.png') }}">
-
-    <!-- Twitter -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="{{ $title ?? 'Verrips Family' }}">
-    <meta name="twitter:image" content="{{ Vite::asset('resources/images/verrips-2025.png') }}">
-
-    <link rel="shortcut icon" href="{{ asset('docs/favicon.ico') }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">

@@ -1,13 +1,17 @@
 <?php
 use function Laravel\Folio\name;
+use Laravel\Head\Facades\Head;
+
 name('home');
+
+Head::title('Verrips Family — Roy, Angela, Nathan and Luke Verrips');
 
 $family = config('family');
 $photos  = $family['photos'];
 $members = $family['members'];
 ?>
 
-<x-layouts.app title="Verrips Family — Roy, Angela, Nathan and Luke Verrips">
+<x-layouts.app>
 
     <!-- Hero -->
     <header id="home" class="max-w-6xl mx-auto px-6 pt-14 pb-10 text-center">
