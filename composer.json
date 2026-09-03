@@ -18,6 +18,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
+        "jeffersongoncalves/laravel-github-stats": "^1.5",
         "laravel/folio": "^1.1",
         "laravel/framework": "^13.0",
         "laravel/head": "^0.1.0",
