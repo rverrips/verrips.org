@@ -1,5 +1,9 @@
+@php
+  $stats = array_values(array_filter($stats, fn ($stat) => ! in_array($stat['label'], ['Total PRs', 'Total Issues'], true)));
+  $cardHeight = 60 + (count($stats) - 1) * 25 + 35;
+@endphp
 {!! '<' . '?xml version="1.0" encoding="UTF-8"' . '?' . '>' !!}
-<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="495" height="{{ $cardHeight }}" viewBox="0 0 495 {{ $cardHeight }}" fill="none" xmlns="http://www.w3.org/2000/svg">
   <style>
     .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #{{ $theme['title'] }}; }
     .stat-label { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #{{ $theme['text'] }}; }
@@ -13,9 +17,9 @@
   </style>
 
   @unless($hide_border)
-  <rect x="0.5" y="0.5" rx="4.5" width="494" height="194" fill="#{{ $theme['bg'] }}" stroke="#{{ $theme['border'] }}" stroke-opacity="1"/>
+  <rect x="0.5" y="0.5" rx="4.5" width="494" height="{{ $cardHeight - 1 }}" fill="#{{ $theme['bg'] }}" stroke="#{{ $theme['border'] }}" stroke-opacity="1"/>
   @else
-  <rect x="0.5" y="0.5" rx="4.5" width="494" height="194" fill="#{{ $theme['bg'] }}" stroke="none"/>
+  <rect x="0.5" y="0.5" rx="4.5" width="494" height="{{ $cardHeight - 1 }}" fill="#{{ $theme['bg'] }}" stroke="none"/>
   @endunless
 
   <g transform="translate(25, 35)">
