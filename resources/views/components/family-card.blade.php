@@ -11,7 +11,7 @@
          style="{{ $isMemorial ? 'background:#f5f0e8;' : '' }}">
         @if ($isMemorial)
             <div class="text-center">
-                <img src="{{ asset($member['photo']) }}"
+                <img src="{{ Vite::asset($member['photo']) }}"
                      alt="{{ $member['name'] }}"
                      class="h-[250px] w-[250px] rounded-full object-cover mx-auto border-4"
                      style="border-color: #d4c9b0; object-position: {{ $member['focus'] ?? 'center' }};">
@@ -20,7 +20,7 @@
                 </p>
             </div>
         @else
-            <img src="{{ asset($member['photo']) }}"
+            <img src="{{ Vite::asset($member['photo']) }}"
                  alt="{{ $member['name'] }}"
                  class="w-full h-full object-cover transition-transform duration-500 hover:scale-105"
                  style="object-position: {{ $member['focus'] ?? 'center' }};">
@@ -42,10 +42,17 @@
             @endif
         </div>
 
-        <p class="text-sm leading-relaxed mb-5 {{ $isMemorial ? 'italic' : '' }}"
+        <p class="text-sm leading-relaxed {{ $isMemorial ? 'italic' : '' }} {{ isset($member['church']) ? 'mb-2' : 'mb-5' }}"
            style="color: {{ $isMemorial ? '#9a8c78' : '#6b5e4e' }};">
             {!! $member['bio'] !!}
         </p>
+
+        @isset($member['church'])
+            <p class="text-xs mb-5" style="color:#9a8c78;">
+                Member at <a href="{{ $member['church']['url'] }}" target="_blank" rel="noopener noreferrer"
+                   class="underline hover:opacity-70" style="color:#6a7c59;">{{ $member['church']['name'] }}</a>
+            </p>
+        @endisset
 
         @if (!empty($member['links']))
             <div class="flex gap-2 flex-wrap">
