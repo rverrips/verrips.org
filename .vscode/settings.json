@@ -5,7 +5,7 @@
         "activityBar.background": "#1f6fd0",
         "activityBar.foreground": "#e7e7e7",
         "activityBar.activeBackground": "#1f6fd0",
-        "activityBar.activeBorder": "#ee90bb",
+        "activityBar.activeBorder": "#e7e7e7",
         "activityBar.inactiveForeground": "#e7e7e799",
         "activityBarBadge.background": "#ee90bb",
         "activityBarBadge.foreground": "#15202b",
@@ -24,7 +24,9 @@
         "activityBarTop.inactiveForeground": "#e7e7e799",
         "commandCenter.foreground": "#e7e7e7",
         "statusBar.debuggingBackground": "#1857a4",
-        "statusBar.debuggingForeground": "#e7e7e7"
+        "statusBar.debuggingForeground": "#e7e7e7",
+        "activityBarTop.activeBorder": "#e7e7e7",
+        "statusBar.inactiveBackground": "#1857a4"
     },
     "now.instance.user.name": "",
     "now.instance.host.url": "",
