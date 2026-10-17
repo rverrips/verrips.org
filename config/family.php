@@ -216,10 +216,10 @@ return [
         [
             'id' => 'jordan',
             'name' => 'Jordan',
-            'photo' => 'resources/images/jordan-600x600.png',
+            'photo' => 'resources/images/Jordan-Engaged-300x300.png',
             'focus' => 'top',
             'role' => 'Daughter-in-Love',
-            'bio' => 'Jordan has been living with us since late 2025. She is a talented artist and loves to cook so has been a great addition to our family. She also works at Chick-fil-A, Duncan and is engaged to be married to Zach.',
+            'bio' => 'Jordan has been living with us since late 2025. She is a talented artist who loves to cook so has been a great addition to our family. She also works at Chick-fil-A, Duncan and is engaged to be married to Zach.',
             'church' => ['name' => 'Woodruff Road PCA', 'url' => 'https://www.woodruffroad.com'],
         ],
         [
