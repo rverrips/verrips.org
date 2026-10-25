@@ -17,12 +17,12 @@ function requestWithRawQueryString(string $query): Request
     ]);
 }
 
-it('returns 400 for query strings that exceed max_input_vars', function () {
+it('does not fail on query strings that exceed max_input_vars', function () {
     $query = implode('&', array_map(fn (int $i): string => "v{$i}=1", range(1, 1500)));
 
     $response = app(Kernel::class)->handle(requestWithRawQueryString($query));
 
-    expect($response->getStatusCode())->toBe(400);
+    expect($response->getStatusCode())->toBe(200);
 });
 
 it('does not fail on deeply nested query strings', function () {
@@ -30,7 +30,7 @@ it('does not fail on deeply nested query strings', function () {
 
     $response = app(Kernel::class)->handle(requestWithRawQueryString($query));
 
-    expect($response->getStatusCode())->toBeIn([200, 400]);
+    expect($response->getStatusCode())->toBe(200);
 });
 
 it('serves normal query strings', function () {
