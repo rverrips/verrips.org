@@ -31,7 +31,10 @@ class AppServiceProvider extends ServiceProvider
                 ->canonical()
                 ->searchableByRobots()
                 ->og(siteName: 'Verrips Family', type: OgType::Website)
-                ->ogImage(Vite::asset('resources/images/verrips-2025.png'))
+                ->when(
+                    Vite::isRunningHot() || is_file(public_path('build/manifest.json')),
+                    fn (HeadBuilder $head) => $head->ogImage(Vite::asset('resources/images/verrips-2025.png')),
+                )
                 ->twitter(card: TwitterCard::SummaryWithLargeImage)
                 ->favicon(asset('docs/favicon.ico'));
         });
