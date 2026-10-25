@@ -4,18 +4,20 @@
         "copilot",
         "opencode"
     ],
-    "cloud": false,
+    "cloud": true,
     "guidelines": true,
     "mcp": true,
     "nightwatch": false,
     "sail": false,
     "skills": [
+        "infer-conventions",
+        "deploying-to-cloud",
         "folio-routing",
         "laravel-best-practices",
+        "testing-best-practices",
         "configure-nightwatch",
         "fluxui-development",
         "livewire-development",
-        "pest-testing",
         "tailwindcss-development"
     ]
 }
