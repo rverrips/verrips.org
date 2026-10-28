@@ -9,6 +9,12 @@
                 "artisan",
                 "boost:mcp"
             ]
+        },
+        "nightwatch": {
+            "type": "remote",
+            "enabled": true,
+            "url": "https://nightwatch.laravel.com/mcp",
+            "oauth": {}
         }
     }
 }

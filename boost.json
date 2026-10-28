@@ -7,7 +7,7 @@
     "cloud": true,
     "guidelines": true,
     "mcp": true,
-    "nightwatch": false,
+    "nightwatch": true,
     "sail": false,
     "skills": [
         "infer-conventions",
