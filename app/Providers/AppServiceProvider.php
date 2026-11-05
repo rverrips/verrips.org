@@ -2,6 +2,8 @@
 
 namespace App\Providers;
 
+use Illuminate\Routing\Events\RouteMatched;
+use Illuminate\Support\Facades\Event;
 use Illuminate\Support\Facades\URL;
 use Illuminate\Support\Facades\Vite;
 use Illuminate\Support\ServiceProvider;
@@ -9,6 +11,7 @@ use Laravel\Head\Enums\OgType;
 use Laravel\Head\Enums\TwitterCard;
 use Laravel\Head\Facades\Head;
 use Laravel\Head\HeadBuilder;
+use Laravel\Nightwatch\Facades\Nightwatch;
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -26,6 +29,12 @@ class AppServiceProvider extends ServiceProvider
     public function boot(): void
     {
         URL::forceHttps($this->app->isProduction());
+
+        Event::listen(function (RouteMatched $event) {
+            if ($event->route->named('github-stats.health')) {
+                Nightwatch::dontSample();
+            }
+        });
 
         Head::defaults(function (HeadBuilder $head) {
             $head
